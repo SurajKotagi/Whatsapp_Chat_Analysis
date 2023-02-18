@@ -1,8 +1,8 @@
-# Whatsapp_Chat_Analysis
+# Whatsapp Chat Analysis
 
-# app live at
+# see live app
 
-click this 👇
+click this ➡️
 [www.SurajK.WhatsappAnalysis.com](https://surajkotagi-whatsapp-chat-analysis-app-ahleju.streamlit.app/)
 
 # app screenshot 1
