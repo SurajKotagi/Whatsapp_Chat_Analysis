@@ -1,0 +1,2325 @@
+20/03/22, 12:25 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+20/03/22, 12:25 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 12:25 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 12:26 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 12:26 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 12:26 pm - 🍀 ADARSH: Still some are there but they are not under offer
+20/03/22, 12:26 pm - SURAJ 🍁: wiat
+20/03/22, 12:26 pm - SURAJ 🍁: wait
+20/03/22, 12:27 pm - 🍀 ADARSH: The brand I ordered was priced high & under no offer
+20/03/22, 12:27 pm - 🍀 ADARSH: Black shirts are aren't under offer
+20/03/22, 12:30 pm - SURAJ 🍁: tattoo on his hand are killer 😅
+20/03/22, 12:31 pm - 🍀 ADARSH: Yeah yeah !!
+20/03/22, 12:31 pm - SURAJ 🍁: https://www.ajio.com/netplay-checked-shirt-with-patch-pocket/p/441123883_white
+20/03/22, 12:33 pm - SURAJ 🍁: https://www.ajio.com/netplay-checked-shirt-with-patch-pocket/p/441123884_navy
+20/03/22, 12:44 pm - 🍀 ADARSH: Wich one do you want 😂😂
+20/03/22, 12:44 pm - 🍀 ADARSH: Or both !?
+20/03/22, 12:44 pm - SURAJ 🍁: both👍🏻
+20/03/22, 12:44 pm - 🍀 ADARSH: Alright let me check for a min
+20/03/22, 12:44 pm - SURAJ 🍁: approx 300 each they are
+20/03/22, 12:45 pm - 🍀 ADARSH: Yes yes !!
+20/03/22, 12:45 pm - 🍀 ADARSH: What about size btw
+20/03/22, 12:45 pm - SURAJ 🍁: i will check n send you wait
+20/03/22, 12:45 pm - 🍀 ADARSH: Alright
+20/03/22, 12:45 pm - SURAJ 🍁: offer is till what time
+20/03/22, 12:46 pm - 🍀 ADARSH: Today evening or night maxx
+20/03/22, 12:46 pm - SURAJ 🍁: asap i will send
+20/03/22, 12:46 pm - 🍀 ADARSH: Alright
+20/03/22, 1:07 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 1:24 pm - SURAJ 🍁: horag adeni ,gapp
+20/03/22, 3:09 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 3:09 pm - SURAJ 🍁: https://www.ajio.com/netplay-checked-shirt-with-patch-pocket/p/441119265_white
+20/03/22, 3:10 pm - SURAJ 🍁: https://www.ajio.com/netplay-checked-cotton-shirt-with-patch-pocket/p/441123873_white
+20/03/22, 3:13 pm - SURAJ 🍁: https://www.ajio.com/netplay-checked-cotton-shirt/p/441114059_mediumblue
+20/03/22, 3:14 pm - SURAJ 🍁: https://www.ajio.com/netplay-checked-cotton-shirt/p/441114059_copper
+20/03/22, 3:14 pm - SURAJ 🍁: 1
+20/03/22, 3:15 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 3:17 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 3:18 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 3:39 pm - SURAJ 🍁: <Media omitted>
+20/03/22, 3:39 pm - SURAJ 🍁: <Media omitted>
+20/03/22, 3:40 pm - SURAJ 🍁: https://www.ajio.com/netplay-striped-shirt-with-patch-pocket/p/441123936_rust
+20/03/22, 3:42 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 3:43 pm - SURAJ 🍁: <Media omitted>
+20/03/22, 3:50 pm - SURAJ 🍁: <Media omitted>
+20/03/22, 3:52 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 3:59 pm - 🍀 ADARSH: I recently tried CashKaro.com & highly recommend it! You get extra Cashback on top of all retailer discounts. 
+ Try it out: https://cashk.app.link/lao8Cfn4xob
+20/03/22, 4:01 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 4:02 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 4:02 pm - SURAJ 🍁: Limited-time deal: Fur Jaden Navy Casual Backpack with USB Charging Port and 15.6 Inch Laptop Pocket https://www.amazon.in/dp/B07G4G3NPD/ref=cm_sw_r_apan_glt_i_dl_MYT1JFKWSFGKT6FJAFNB?_encoding=UTF8&psc=1
+20/03/22, 8:07 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 9:19 pm - SURAJ 🍁: listy=["red","green","blue".....]
+my_colour = listy[int(random(10))]
+k = 1
+while(k)
+    k = True
+    my_colour = listy[int(random(10))]
+    user_color = str(input("guess a color : "))
+    if(user_color == my_colour)
+        print("yahoo same colour")
+    elif(user_color == "no")
+        k = False
+    else
+        print("nadi manig not same color")
+20/03/22, 9:33 pm - 🍀 ADARSH: print('you are a holy stud')
+20/03/22, 9:34 pm - SURAJ 🍁: while(True)
+   print (" you are also ")
+20/03/22, 9:35 pm - 🍀 ADARSH: Yeah yeah !! Whatever 😂😂
+20/03/22, 9:35 pm - SURAJ 🍁: 😁
+20/03/22, 9:37 pm - 🍀 ADARSH: Bankacnum=int(input("enter the number linked with phonepe or whatever kind of pay ")
+20/03/22, 9:37 pm - 🍀 ADARSH: Imma launch some money
+20/03/22, 9:37 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 9:38 pm - SURAJ 🍁: use long long int
+20/03/22, 9:39 pm - 🍀 ADARSH: Eee hatroo
+20/03/22, 9:39 pm - 🍀 ADARSH: Python
+20/03/22, 9:39 pm - SURAJ 🍁: 😅
+20/03/22, 9:39 pm - 🍀 ADARSH: Number hel ig 😂😂
+20/03/22, 9:39 pm - 🍀 ADARSH: For this reason
+20/03/22, 9:39 pm - SURAJ 🍁: 8197344704
+20/03/22, 9:41 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 9:41 pm - 🍀 ADARSH: <Media omitted>
+20/03/22, 10:08 pm - SURAJ 🍁: 👍🏻
+21/03/22, 12:28 pm - SURAJ 🍁: <Media omitted>
+21/03/22, 12:29 pm - SURAJ 🍁: <Media omitted>
+21/03/22, 2:52 pm - 🍀 ADARSH: I chewed the veggies & food slowly & completely and it took about entire 1 hr
+21/03/22, 6:24 pm - SURAJ 🍁: 😅 any benifits you seen?
+21/03/22, 6:39 pm - 🍀 ADARSH: Hello " fuck you " 😂 
+I am again floating in air with some music & floaty imaginations
+21/03/22, 6:39 pm - 🍀 ADARSH: ...
+21/03/22, 6:40 pm - SURAJ 🍁: Ok
+22/03/22, 7:16 am - 🍀 ADARSH: <Media omitted>
+22/03/22, 7:16 am - SURAJ 🍁: 😅
+22/03/22, 7:17 am - 🍀 ADARSH: I think I will rise it today a bit
+22/03/22, 7:17 am - 🍀 ADARSH: What are u doing today !?
+22/03/22, 7:17 am - SURAJ 🍁: not planned anything
+22/03/22, 8:11 am - SURAJ 🍁: 😅
+22/03/22, 11:34 am - 🍀 ADARSH: To be shameless , I digested well yesterday & pooped well today 💩
+22/03/22, 11:34 am - 🍀 ADARSH: ...
+22/03/22, 11:36 am - SURAJ 🍁: 🥳
+24/03/22, 5:03 pm - 🍀 ADARSH: <Media omitted>
+24/03/22, 5:03 pm - 🍀 ADARSH: I am admitting that I am a big idiot
+
+And u should help me with programming once we get together
+24/03/22, 5:03 pm - 🍀 ADARSH: <Media omitted>
+24/03/22, 5:32 pm - SURAJ 🍁: 😅
+24/03/22, 6:46 pm - 🍀 ADARSH: If reply==😅
+Print('wtf does that mean')
+25/03/22, 12:35 pm - 🍀 ADARSH: Dress !?
+25/03/22, 12:36 pm - SURAJ 🍁: en aat?
+25/03/22, 12:38 pm - 🍀 ADARSH: Ivatt kodtan en illa ava !?
+25/03/22, 12:38 pm - SURAJ 🍁: nandra helteni
+25/03/22, 12:38 pm - SURAJ 🍁: b*
+25/03/22, 12:39 pm - 🍀 ADARSH: Ok alright
+25/03/22, 6:22 pm - SURAJ 🍁: <Media omitted>
+25/03/22, 8:50 pm - 🍀 ADARSH: Wooohhh !! Stud !!
+25/03/22, 8:50 pm - SURAJ 🍁: 😅
+25/03/22, 8:50 pm - 🍀 ADARSH: Did you like yours !?!?😁
+25/03/22, 8:50 pm - SURAJ 🍁: 😂
+25/03/22, 8:50 pm - SURAJ 🍁: yes
+25/03/22, 8:50 pm - 🍀 ADARSH: 🤩
+25/03/22, 8:51 pm - 🍀 ADARSH: Are my clothes fine too !?/😁😂
+25/03/22, 8:51 pm - SURAJ 🍁: one of my dress is failed to ship,i want that one
+25/03/22, 8:51 pm - SURAJ 🍁: awesome ,i want to keep yours also
+25/03/22, 8:52 pm - 🍀 ADARSH: If its cash on del
+Order it once again then
+25/03/22, 8:52 pm - 🍀 ADARSH: 😁🤣yeah yeah !! Whatever for u
+25/03/22, 8:52 pm - SURAJ 🍁: they have no repaid money,so i will wait,i guess it will be delivered
+25/03/22, 8:52 pm - 🍀 ADARSH: Ok alright then
+25/03/22, 8:53 pm - 🍀 ADARSH: How much are missing
+25/03/22, 8:53 pm - SURAJ 🍁: from now onwards we will talh english only,is it fine for you
+25/03/22, 8:53 pm - SURAJ 🍁: only 1
+25/03/22, 8:53 pm - 🍀 ADARSH: Yeah !! But if I am in village !! I think its not possible
+25/03/22, 8:54 pm - 🍀 ADARSH: Else I am more excited than you
+25/03/22, 8:54 pm - SURAJ 🍁: in clg and while texting
+25/03/22, 8:54 pm - 🍀 ADARSH: Yessir !! We will
+25/03/22, 8:54 pm - SURAJ 🍁: and are you told to do mini projects?
+25/03/22, 8:55 pm - 🍀 ADARSH: Brother something inside me is saying
+We are about to face something huge shift in our lives and career and we should get ready to take massive amount of load and work 
+If we do I bet we will soon be somewhere else
+25/03/22, 8:56 pm - 🍀 ADARSH: And its definitely not easy
+25/03/22, 8:57 pm - SURAJ 🍁: excited for it, feeling happy 😄
+25/03/22, 8:57 pm - 🍀 ADARSH: No they didn't ,, but I am sure these motherfuckers surprisely come 
+
+Hit very hard like never before
+25/03/22, 8:57 pm - 🍀 ADARSH: Yesss !! Me too
+25/03/22, 8:57 pm - 🍀 ADARSH: I can feel the burn
+25/03/22, 8:57 pm - SURAJ 🍁: i m in tution,bye
+25/03/22, 8:58 pm - 🍀 ADARSH: Head out,,,byeee
+28/03/22, 1:41 pm - 🍀 ADARSH: Would you love to head to see rooms
+
+Anpya seen 1 , cost is 2000 per bed 
+
+Will negotiate and if they refuse will find others then
+28/03/22, 2:44 pm - SURAJ 🍁: yaa tomorrow
+28/03/22, 2:44 pm - SURAJ 🍁: You deleted this message
+28/03/22, 2:44 pm - SURAJ 🍁: 👍🏻
+28/03/22, 9:10 pm - 🍀 ADARSH: Another place is available where rent is 1500 & light bill 150 ₹
+28/03/22, 9:10 pm - 🍀 ADARSH: Near kle
+28/03/22, 9:11 pm - SURAJ 🍁: its fine then
+28/03/22, 9:11 pm - 🍀 ADARSH: Can I call you know foe tmrw adjustments
+28/03/22, 9:11 pm - 🍀 ADARSH: For*
+28/03/22, 9:11 pm - 🍀 ADARSH: Now*
+28/03/22, 9:11 pm - SURAJ 🍁: yep
+28/03/22, 9:22 pm - SURAJ 🍁: <Media omitted>
+29/03/22, 4:21 pm - 🍀 ADARSH: Abey 🤍de why did u paid 20 anyway
+29/03/22, 7:42 pm - SURAJ 🍁: <Media omitted>
+29/03/22, 7:43 pm - SURAJ 🍁: mf
+29/03/22, 7:44 pm - SURAJ 🍁: my mom is here lovde
+29/03/22, 7:44 pm - SURAJ 🍁: call you later
+29/03/22, 8:04 pm - 🍀 ADARSH: Yes sir !!
+29/03/22, 8:04 pm - SURAJ 🍁: i have fucked up here
+29/03/22, 8:05 pm - 🍀 ADARSH: For what fantastic purpose
+29/03/22, 8:05 pm - 🍀 ADARSH: !?
+29/03/22, 8:05 pm - SURAJ 🍁: tell you later
+29/03/22, 10:27 pm - 🍀 ADARSH: Boyyyy would you send me a pic of that pant ....so I could sleep better
+29/03/22, 10:28 pm - 🍀 ADARSH: 😁🤭
+29/03/22, 10:28 pm - SURAJ 🍁: no
+29/03/22, 10:28 pm - 🍀 ADARSH: <Media omitted>
+29/03/22, 10:29 pm - 🍀 ADARSH: <Media omitted>
+29/03/22, 10:29 pm - 🍀 ADARSH: <Media omitted>
+29/03/22, 10:29 pm - 🍀 ADARSH: <Media omitted>
+30/03/22, 8:21 am - SURAJ 🍁: 😅
+30/03/22, 10:14 am - SURAJ 🍁: <Media omitted>
+31/03/22, 4:04 pm - 🍀 ADARSH: Even without updates the laptop is drinking net like water...
+
+Is there any reasons you can think of !?
+31/03/22, 4:04 pm - SURAJ 🍁: no
+31/03/22, 4:06 pm - 🍀 ADARSH: Tf
+31/03/22, 5:07 pm - SURAJ 🍁: bhenchod
+31/03/22, 9:31 pm - 🍀 ADARSH: Well !! What the hell !!
+31/03/22, 10:43 pm - SURAJ 🍁: 😂
+01/04/22, 6:53 am - 🍀 ADARSH: Ohh man !! One punch man !!
+That thing is hilarious 🔥⚡🎺
+01/04/22, 6:53 am - 🍀 ADARSH: Cool af 💯❄️
+01/04/22, 6:53 am - 🍀 ADARSH: ..
+01/04/22, 5:57 pm - 🍀 ADARSH: https://youtu.be/WqxuR-pz19M
+02/04/22, 7:06 pm - 🍀 ADARSH: <Media omitted>
+02/04/22, 7:06 pm - SURAJ 🍁: nan ki hech adavo
+02/04/22, 7:50 pm - 🍀 ADARSH: Photonyag hang kansatavo
+02/04/22, 7:50 pm - 🍀 ADARSH: Will see live
+02/04/22, 7:50 pm - 🍀 ADARSH: ...
+02/04/22, 7:50 pm - SURAJ 🍁: bhencho
+02/04/22, 8:40 pm - SURAJ 🍁: we should not leave talking english btw ,we are getting pace in it ,lets just continue it😤
+02/04/22, 8:49 pm - 🍀 ADARSH: Yess !! Indeed 🌬️
+03/04/22, 10:19 pm - 🍀 ADARSH: <Media omitted>
+03/04/22, 10:20 pm - 🍀 ADARSH: I will stand with u in all times my man .....
+
+
+
+I have no words
+03/04/22, 10:20 pm - 🍀 ADARSH: You are the legend !!
+03/04/22, 10:21 pm - SURAJ 🍁: no words ,to tell you,we will just show the world our determination and goodness
+03/04/22, 10:25 pm - SURAJ 🍁: the fuckups you are facing are the one which are making you tuff and hard, nothing is going to stop us from achieving what we want! just we are the tuffest mother fuckers mind-it keep my words
+03/04/22, 10:28 pm - SURAJ 🍁: if you are feeling pain then i can tell how good and kind you are from inside,i don't give flying fuck about her,only i care about is you my man,just dont lose ur kindness it has nothing to do with it,i will be there with you tillllllllll...... theeeee............... end................
+03/04/22, 10:29 pm - SURAJ 🍁: having you..feels like god is helping me through you ..
+03/04/22, 11:25 pm - 🍀 ADARSH: You are the one 🤍
+
+
+Dumb fcking msgs cannot describe neither your support nor my feelings ......💯
+04/04/22, 6:14 am - 🍀 ADARSH: Get ready
+04/04/22, 7:07 am - 🍀 ADARSH: Elloooo
+05/04/22, 8:14 pm - SURAJ 🍁: https://youtu.be/4aE58wbXdqU
+05/04/22, 8:20 pm - SURAJ 🍁: https://youtu.be/uULy2rc6YDc
+07/04/22, 6:46 am - 🍀 ADARSH: <Media omitted>
+09/04/22, 7:15 pm - 🍀 ADARSH: Hey mf
+Your consistency & focus towards your learning truly inspired me...
+
+
+Today I watched the scheduled blockchain with more interest than before
+09/04/22, 7:15 pm - 🍀 ADARSH: Thanksss mannn
+09/04/22, 7:15 pm - 🍀 ADARSH: ...
+09/04/22, 7:34 pm - SURAJ 🍁: there is more to come ,mark my words😁🦾
+09/04/22, 7:34 pm - SURAJ 🍁: 🥳🥳🥳🙌🏻🙌🏻🙌🏻
+09/04/22, 9:25 pm - 🍀 ADARSH: ✈️
+10/04/22, 12:50 pm - SURAJ 🍁: <Media omitted>
+13/04/22, 1:41 pm - SURAJ 🍁: <Media omitted>
+13/04/22, 2:17 pm - 🍀 ADARSH: <Media omitted>
+13/04/22, 2:17 pm - 🍀 ADARSH: <Media omitted>
+13/04/22, 2:18 pm - 🍀 ADARSH: Download 50 shades of grey
+13/04/22, 2:18 pm - 🍀 ADARSH: Right nowwww
+13/04/22, 2:18 pm - 🍀 ADARSH: ....
+18/04/22, 8:21 pm - SURAJ 🍁: <Media omitted>
+18/04/22, 8:37 pm - SURAJ 🍁: https://youtube.com/c/takeUforward
+21/04/22, 11:57 am - SURAJ 🍁: call maad
+21/04/22, 11:57 am - SURAJ 🍁: class mugyantlr
+21/04/22, 11:57 am - SURAJ 🍁: e
+21/04/22, 12:06 pm - SURAJ 🍁: bhai avlakki kettig kottaleno ro chodimagal
+24/04/22, 7:53 am - 🍀 ADARSH: Bring a new nail cutter pls, I will pay for it , just don't forget
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 3:38 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 7:48 pm - SURAJ 🍁: <Media omitted>
+24/04/22, 11:38 pm - 🍀 ADARSH: 😄🔥🤍
+25/04/22, 12:24 pm - 🍀 ADARSH: Bhai recharge mugdeti
+25/04/22, 12:24 pm - 🍀 ADARSH: Call madoo
+25/04/22, 2:30 pm - 🍀 ADARSH: Missed voice call
+25/04/22, 3:03 pm - 🍀 ADARSH: Missed voice call
+25/04/22, 3:10 pm - 🍀 ADARSH: Missed voice call
+25/04/22, 3:36 pm - 🍀 ADARSH: Missed voice call
+25/04/22, 3:50 pm - 🍀 ADARSH: ❤️de call recieve madooo
+25/04/22, 3:48 pm - 🍀 ADARSH: Missed voice call
+25/04/22, 3:50 pm - 🍀 ADARSH: Missed voice call
+25/04/22, 10:33 pm - 🍀 ADARSH: <Media omitted>
+02/05/22, 11:44 am - SURAJ 🍁: You deleted this message
+02/05/22, 11:46 am - SURAJ 🍁: <Media omitted>
+05/05/22, 7:15 pm - 🍀 ADARSH: ✈️⚠️🎺⚠️🎺⚠️🙆🏻‍♂️⚡✨⚡🥲🥱🤍😄✨🙆🏻‍♂️
+07/05/22, 1:02 pm - SURAJ 🍁: bhai ni uta madir na madeni uta
+08/05/22, 9:50 am - SURAJ 🍁: chasma bitt hogi la
+08/05/22, 10:55 am - SURAJ 🍁: hach call
+08/05/22, 7:18 pm - SURAJ 🍁: https://www.cs.usfca.edu/~galles/visualization/Search.html
+08/05/22, 7:19 pm - SURAJ 🍁: binary search animation
+08/05/22, 7:19 pm - SURAJ 🍁: 8 ka call maad
+08/05/22, 7:55 pm - SURAJ 🍁: <Media omitted>
+08/05/22, 8:46 pm - SURAJ 🍁: Hi,
+
+I have found the best free resource to prepare for product companies - Amazon, Microsoft etc interview.
+
+Check out Striver's SDE Sheet: https://bit.ly/3zquqSu
+
+Everything you need for structured interview prep for free.
+08/05/22, 8:47 pm - SURAJ 🍁: https://takeuforward.org/interviews/most-trusted-90-days-roadmap-to-placement-guaranteed/
+09/05/22, 7:07 am - 🍀 ADARSH: Awesome broo 💯 will discuss today eve
+09/05/22, 6:54 pm - 🍀 ADARSH: On the way
+09/05/22, 6:58 pm - SURAJ 🍁: <Media omitted>
+10/05/22, 4:27 pm - SURAJ 🍁: https://youtube.com/shorts/rZz8M5J6PTg?feature=share
+10/05/22, 4:45 pm - SURAJ 🍁: https://youtu.be/QX3iigjsqoA
+12/05/22, 8:06 pm - 🍀 ADARSH: <Media omitted>
+12/05/22, 8:06 pm - 🍀 ADARSH: <Media omitted>
+13/05/22, 10:33 pm - 🍀 ADARSH: <Media omitted>
+15/05/22, 12:23 pm - 🍀 ADARSH: <Media omitted>
+15/05/22, 12:24 pm - 🍀 ADARSH: <Media omitted>
+16/05/22, 6:47 pm - SURAJ 🍁: akshay ga abs adav atto🤣 6 adav att helatidd ivatt🤣🤣
+17/05/22, 5:50 am - 🍀 ADARSH: 😅🔥🔥🤣
+21/05/22, 1:33 pm - SURAJ 🍁: call mad
+24/05/22, 9:18 pm - SURAJ 🍁: https://youtu.be/220TpHgDfvs
+25/05/22, 9:41 am - 🍀 ADARSH: Oooo bhaii 😂😂😂😂✈️✈️✈️🔥🔥
+25/05/22, 10:52 pm - SURAJ 🍁: https://youtube.com/shorts/_KJM_Q9LW2E?feature=share
+26/05/22, 6:09 am - 🍀 ADARSH: 😅😂
+26/05/22, 8:03 am - SURAJ 🍁: https://youtu.be/gLIbgAVADD0
+28/05/22, 12:18 pm - SURAJ 🍁: https://youtu.be/M2NDQOgGycg
+28/05/22, 12:43 pm - 🍀 ADARSH: Ok
+29/05/22, 10:23 am - 🍀 ADARSH: https://www.instagram.com/tv/CaH55o0pCaA/?igshid=MDJmNzVkMjY=
+29/05/22, 10:23 am - 🍀 ADARSH: Gtr
+29/05/22, 10:23 am - 🍀 ADARSH: ..
+31/05/22, 9:23 pm - 🍀 ADARSH: <Media omitted>
+03/06/22, 9:15 pm - SURAJ 🍁: nina hacho
+03/06/22, 9:13 pm - 🍀 ADARSH: Missed voice call
+03/06/22, 9:15 pm - 🍀 ADARSH: Missed video call
+03/06/22, 9:16 pm - 🍀 ADARSH: Missed video call
+03/06/22, 9:16 pm - 🍀 ADARSH: Missed voice call
+03/06/22, 9:17 pm - 🍀 ADARSH: Missed video call
+03/06/22, 9:34 pm - 🍀 ADARSH: Missed voice call
+04/06/22, 7:37 pm - SURAJ 🍁: .
+04/06/22, 5:08 pm - 🍀 ADARSH: Bhai room key Anup kade illandra Pooja kade kodo
+04/06/22, 7:38 pm - 🍀 ADARSH: 719
+04/06/22, 7:38 pm - SURAJ 🍁: ok
+04/06/22, 7:39 pm - SURAJ 🍁: madideni nod
+04/06/22, 7:41 pm - 🍀 ADARSH: I didn't got any msg ,check again
+04/06/22, 7:42 pm - SURAJ 🍁: <Media omitted>
+04/06/22, 8:10 pm - 🍀 ADARSH: Done
+04/06/22, 9:41 pm - SURAJ 🍁: <Media omitted>
+04/06/22, 10:15 pm - 🍀 ADARSH: 🔥🔥🔥
+05/06/22, 8:18 am - 🍀 ADARSH: <Media omitted>
+05/06/22, 8:18 am - SURAJ 🍁: nali exam da tension aiti gappo😂
+05/06/22, 8:18 am - 🍀 ADARSH: Sari
+05/06/22, 10:06 am - SURAJ 🍁: watermelon tinnuhang anasatrtyo...
+05/06/22, 10:51 am - 🍀 ADARSH: I got 1 full for 25 😁
+05/06/22, 10:51 am - 🍀 ADARSH: Pineapple 🍍 25 🤟🏼
+05/06/22, 10:51 am - 🍀 ADARSH: ..
+05/06/22, 10:59 am - SURAJ 🍁: 💦
+08/06/22, 6:15 pm - SURAJ 🍁: <Media omitted>
+08/06/22, 7:37 pm - 🍀 ADARSH: Houd lakoo
+09/06/22, 8:13 am - SURAJ 🍁: <Media omitted>
+09/06/22, 8:13 am - SURAJ 🍁: gut college
+akatsuki lite
+09/06/22, 8:13 am - SURAJ 🍁: git
+09/06/22, 8:14 am - SURAJ 🍁: <Media omitted>
+09/06/22, 8:53 am - 🍀 ADARSH: Awesome broo 😲🔥 in our clg nobody even knows it :|
+09/06/22, 8:54 am - SURAJ 🍁: bhai navu maadod itttttooooooooooooo
+09/06/22, 8:54 am - 🍀 ADARSH: Why not for the next time
+09/06/22, 8:55 am - SURAJ 🍁: 💯💯💯💯💯💯ni one punch man aagbahud itt e sala
+09/06/22, 8:55 am - 🍀 ADARSH: 😂😂
+09/06/22, 8:55 am - 🍀 ADARSH: Clg barti
+09/06/22, 8:55 am - 🍀 ADARSH: !?
+09/06/22, 8:55 am - SURAJ 🍁: ill
+09/06/22, 8:55 am - 🍀 ADARSH: WT the hell
+09/06/22, 8:55 am - 🍀 ADARSH: Aram aglilla
+09/06/22, 8:55 am - 🍀 ADARSH: !?
+09/06/22, 8:55 am - SURAJ 🍁: ni elli adi eeg
+09/06/22, 8:55 am - 🍀 ADARSH: Room
+09/06/22, 8:56 am - SURAJ 🍁: sakageti anime nodateni
+09/06/22, 8:56 am - 🍀 ADARSH: Sari
+09/06/22, 8:56 am - 🍀 ADARSH: Room ka barti !!
+09/06/22, 8:56 am - 🍀 ADARSH: ?
+09/06/22, 8:56 am - SURAJ 🍁: na ni manig hogi att tildinni
+09/06/22, 8:56 am - 🍀 ADARSH: Ig edk
+09/06/22, 8:56 am - SURAJ 🍁: ivatt ratri
+09/06/22, 8:56 am - 🍀 ADARSH: Yup alright
+09/06/22, 12:10 pm - 🍀 ADARSH: Bhai i need help with number systems
+09/06/22, 12:10 pm - SURAJ 🍁: which subject bhai?
+15/06/22, 8:20 am - 🍀 ADARSH: Missed voice call
+18/06/22, 8:26 pm - SURAJ 🍁: ✨️ FOR PAID PROMOTIONS: @DarKCroXX
+
+👆 Message @DarKCroXX only for paid promotion.
+https://t.me/Kaguyasama_sama_Love_is_War
+18/06/22, 8:41 pm - SURAJ 🍁: 2nd episode benki
+18/06/22, 9:31 pm - 🍀 ADARSH: I will see
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 12:59 pm - 🍀 ADARSH: Bro screw job , money , girls .... I can leave the rest of my life happily here raising buffalos 🤣💯🌈
+19/06/22, 12:59 pm - 🍀 ADARSH: ...
+19/06/22, 4:49 pm - 🍀 ADARSH: <Media omitted>
+19/06/22, 4:49 pm - 🍀 ADARSH: After that whatever the program may be , after i run its just telling damn you java
+19/06/22, 4:49 pm - 🍀 ADARSH: Small problems irritate me a lot bro
+19/06/22, 4:49 pm - 🍀 ADARSH: ...
+19/06/22, 6:23 pm - SURAJ 🍁: bhai change that bot to adarsh
+19/06/22, 6:28 pm - SURAJ 🍁: try by Changing
+bot -> Adarsh
+main -> adarsh
+19/06/22, 8:37 pm - 🍀 ADARSH: Yes it worked bro
+19/06/22, 8:37 pm - 🍀 ADARSH: Thanks
+19/06/22, 8:37 pm - 🍀 ADARSH: btW kaguya is 💥
+19/06/22, 8:37 pm - 🍀 ADARSH: I don't have net , so i will once I come there
+19/06/22, 8:45 pm - SURAJ 🍁: 🙌🏻
+20/06/22, 9:01 am - SURAJ 🍁: roomnyag idra chatri togond baa nand
+20/06/22, 9:45 am - 🍀 ADARSH: Well alright
+20/06/22, 10:30 am - 🍀 ADARSH: Bro where are u !!?
+20/06/22, 10:33 am - SURAJ 🍁: lab
+21/06/22, 6:52 am - SURAJ 🍁: dost ivatt chatri togond ba ,munjane na iskoteni
+21/06/22, 7:08 am - 🍀 ADARSH: Bhai ivat na baratill , av Rahul bandan
+21/06/22, 7:08 am - 🍀 ADARSH: Avn kade kottirten
+21/06/22, 7:08 am - SURAJ 🍁: ok avn number kalsir
+21/06/22, 7:11 am - 🍀 ADARSH: Nan avg kottirten, call recieve mad
+21/06/22, 7:11 am - SURAJ 🍁: ha👍🏻
+21/06/22, 7:53 am - 🍀 ADARSH: Rahul Darshan Dost.vcf (file attached)
+21/06/22, 5:54 pm - SURAJ 🍁: https://youtu.be/8MmMm2-kJV8
+21/06/22, 9:29 pm - SURAJ 🍁: <Media omitted>
+22/06/22, 10:24 am - SURAJ 🍁: bhai yavare class kundratirakill andra hel na 1 ra mata free aden
+22/06/22, 10:24 am - SURAJ 🍁: 1.50 mata
+23/06/22, 8:10 am - 🍀 ADARSH: Com to kallege
+23/06/22, 8:58 am - SURAJ 🍁: voke
+23/06/22, 9:20 am - 🍀 ADARSH: Huttu habbada shubhashayagalu 🤍 suryaoo 🌈✨
+
+You are 22 now 😆
+23/06/22, 9:50 am - SURAJ 🍁: bro 22 and broke also😂😂😂
+
+btw thank you for wishes😂
+23/06/22, 10:45 am - 🍀 ADARSH: MC alumni talk anta pa. Class illa
+23/06/22, 10:45 am - 🍀 ADARSH: Ina horag idra lib baroo
+23/06/22, 3:42 pm - SURAJ 🍁: bhai manyag adeni na ,en helud ittu??
+24/06/22, 3:57 pm - 🍀 ADARSH: Bhai assignment send pls
+24/06/22, 4:01 pm - SURAJ 🍁: <Media omitted>
+24/06/22, 4:02 pm - SURAJ 🍁: <Media omitted>
+26/06/22, 9:57 am - SURAJ 🍁: <Media omitted>
+26/06/22, 10:07 am - SURAJ 🍁: https://youtu.be/SenClIIneMI
+26/06/22, 10:22 am - 🍀 ADARSH: https://music.youtube.com/watch?v=0ghpJJXy66E&feature=share
+26/06/22, 10:22 am - 🍀 ADARSH: https://music.youtube.com/watch?v=PGZjbGN-rsU&feature=share
+26/06/22, 10:49 am - SURAJ 🍁: https://music.youtube.com/watch?v=DNmrYiRU8AM&feature=share
+26/06/22, 10:49 am - SURAJ 🍁: meaning🙌🏻🙌🏻🙌🏻🙌🏻🙌🏻🙌🏻🙌🏻🙌🏻🙌🏻
+26/06/22, 11:20 am - 🍀 ADARSH: Fucked up reality!!
+Reject modernity!!
+Embrace masculinity!!
+💥✈️
+26/06/22, 11:24 am - SURAJ 🍁: 😂😂
+26/06/22, 11:55 am - SURAJ 🍁: https://youtu.be/Ap1JfdawpVA
+26/06/22, 11:56 am - SURAJ 🍁: watch video🤣🤣🤣🤣🤣
+26/06/22, 12:42 pm - 🍀 ADARSH: <Media omitted>
+26/06/22, 12:42 pm - 🍀 ADARSH: Thanks to you bro !! I solved next greater elements without seeing, but with a few mistakes
+26/06/22, 12:48 pm - 🍀 ADARSH: 💥🔥
+26/06/22, 12:48 pm - 🍀 ADARSH: .
+26/06/22, 4:03 pm - 🍀 ADARSH: Bhai malkondi en ecchar adi
+26/06/22, 4:03 pm - 🍀 ADARSH: Call madod itt
+27/06/22, 8:16 am - SURAJ 🍁: bhai akash kle dovnda 10lack package select aat
+27/06/22, 8:17 am - SURAJ 🍁: product based company
+27/06/22, 8:17 am - SURAJ 🍁: avng algorithms adu enu barodill
+27/06/22, 8:19 am - 🍀 ADARSH: Wtf
+27/06/22, 8:19 am - 🍀 ADARSH: Hengooo bhaiii
+27/06/22, 8:19 am - 🍀 ADARSH: ...!!? 😲
+27/06/22, 3:48 pm - 🍀 ADARSH: https://www.tcs.com/careers/TCSFresherHiringYoP2023
+28/06/22, 6:35 am - 🍀 ADARSH: Ivat java class baro , naav hind kunt DSA discuss madonu
+28/06/22, 7:50 am - SURAJ 🍁: eeg edni na
+28/06/22, 8:11 am - SURAJ 🍁: We invite you to YPT.
+Let's study hard together!
+
+Group name - Study Legends2022/23
+
+Invite link - 
+https://invite.yeolpumta.com/re1r
+29/06/22, 10:46 pm - SURAJ 🍁: Daily life of high school boys
+https://t.me/Daily_life_of_high_school_boys
+29/06/22, 10:47 pm - SURAJ 🍁: 1st episode 🤣
+30/06/22, 7:39 am - 🍀 ADARSH: Ok i will
+30/06/22, 7:39 am - 🍀 ADARSH: Bro i finished naruto
+30/06/22, 7:39 am - 🍀 ADARSH: ...
+30/06/22, 7:46 am - SURAJ 🍁: 😱😱😱😱😱
+02/07/22, 10:43 pm - SURAJ 🍁: bhai
+03/07/22, 5:32 am - 🍀 ADARSH: Bhai sry roo
+03/07/22, 5:32 am - 🍀 ADARSH: Urag idde , call recieve madak aglilla
+03/07/22, 5:32 am - 🍀 ADARSH: What's the matter ??
+03/07/22, 8:42 am - SURAJ 🍁: en illo bhai😂,hanga hacchinni
+06/07/22, 12:51 pm - SURAJ 🍁: https://youtu.be/kICh_d6tHQk
+
+bhai his feelings 🙌🏻
+06/07/22, 1:57 pm - 🍀 ADARSH: Wait
+06/07/22, 4:41 pm - 🍀 ADARSH: Driven 💯✈️
+07/07/22, 5:10 pm - 🍀 ADARSH: Hoyyiiieee
+07/07/22, 5:26 pm - SURAJ 🍁: ha
+07/07/22, 5:57 pm - SURAJ 🍁: alli room daag kle du library du book adav avn ond swalp safe id
+07/07/22, 7:08 pm - 🍀 ADARSH: Ell adavoo
+07/07/22, 7:08 pm - 🍀 ADARSH: Ir  ig nalind tough aiti avg madod , amel nodten bhai
+07/07/22, 7:39 pm - SURAJ 🍁: yavagare nod,ott elli kaldu andra atta,adka helini
+07/07/22, 7:40 pm - SURAJ 🍁: https://music.youtube.com/watch?v=c4KCPpVWx0E&feature=share
+07/07/22, 8:33 pm - 🍀 ADARSH: Alright
+08/07/22, 5:54 pm - 🍀 ADARSH: https://youtu.be/v9BclXHp9XI
+
+A Bible video 💯
+08/07/22, 5:54 pm - 🍀 ADARSH: Watch full
+08/07/22, 7:41 pm - SURAJ 🍁: afterwards,i slept till now ,have to study 2 subs
+10/07/22, 2:45 pm - 🍀 ADARSH: Bhai rutuja yando jote full hachkond Nadu kunt triple ride hodlo
+10/07/22, 3:03 pm - SURAJ 🍁: aki tull hada😂 auti sullimagl hatr bido akinna😂😂 innond swalp divsdaag manyag gottakketi madvi maadi kalastar akin chappal le badad😂😂
+10/07/22, 3:03 pm - SURAJ 🍁: aunty*
+10/07/22, 5:07 pm - 🍀 ADARSH: Yupp broo
+17/07/22, 6:58 pm - 🍀 ADARSH: <Media omitted>
+17/07/22, 6:59 pm - SURAJ 🍁: hairstyle maadteni gapp ivn gate
+17/07/22, 6:59 pm - 🍀 ADARSH: Alright 👍
+17/07/22, 7:02 pm - 🍀 ADARSH: <Media omitted>
+17/07/22, 7:03 pm - SURAJ 🍁: ellindra hudkyadatiro
+17/07/22, 7:04 pm - 🍀 ADARSH: Av obb iddo same nin gate na 😂🤣 insta olag
+17/07/22, 7:07 pm - SURAJ 🍁: 😂 bhai avr chand adaro na illo😂😂
+17/07/22, 8:29 pm - 🍀 ADARSH: Fuuuk you
+20/07/22, 6:04 pm - SURAJ 🍁: bhai tcs interview yavag togotar?m
+21/07/22, 10:28 am - SURAJ 🍁: area mydata, data, readwrite ; allocates area in RAM with name mydata
+number DCD 0
+; allocates 4 bytes in RAM with label number.
+area mycode, code, readonly ; allocates area in ROM with name mycode
+export __main
+; label __main is exported so that 
+;startup_lpc17xx.s can access it.
+__main ENTRY
+; entry point into the assembly code
+MOV R0, #0x00
+; counter for number of Zeros
+MOV R1, #0x00
+; counter for number of ones
+MOV R2, #32
+; counter for number of rotations
+LDR R3, =number
+; copy address of label number into register R3
+LDR R4, [R3]
+; copy content pointed by R3 into register R4
+again
+RORS R4, #1
+; rotate the content of R4 to right by one bit, carry 
+;flag is updated.
+BCC label0
+; branch to label0 if the carry is reset/cleared
+ADD R1,#0x01
+; increment the counter for number of ones
+B label2
+; branch to label2
+label0
+ADD R0,#0x01
+; increment the counter for number of zeros
+label2
+SUBS R2,#0x01
+; decrement the counter for number of rotations
+BNE again
+; goto next rotation if the value of R2 is not zero
+END
+21/07/22, 10:59 am - SURAJ 🍁: <Media omitted>
+21/07/22, 11:04 am - 🍀 ADARSH: What is this bro !? 😅
+21/07/22, 11:05 am - SURAJ 🍁: bhai pc ga kalsak kalsinyo,😂 nan mute maado whatsappdaga
+21/07/22, 4:21 pm - 🍀 ADARSH: Yeah whatever, i use whatsapp rarely as there is nothing to do with it...you can carry on
+21/07/22, 8:19 pm - SURAJ 🍁: bhai busy adi en?
+21/07/22, 8:21 pm - SURAJ 🍁: bencho
+21/07/22, 9:46 pm - 🍀 ADARSH: Bhai illoo
+21/07/22, 9:47 pm - 🍀 ADARSH: Nali na aiti namd final phase 
+Nang gott irakkilla avnvn
+21/07/22, 9:47 pm - 🍀 ADARSH: Matt beligge jaldi barbek adk
+21/07/22, 9:47 pm - 🍀 ADARSH: ..
+21/07/22, 10:18 pm - SURAJ 🍁: kett teli hadtaro clg dora,nale phase mugisko chandhang ameli matadonu togo 
+gn
+21/07/22, 10:19 pm - 🍀 ADARSH: Yeah bro !! For sure 💯
+22/07/22, 11:31 am - SURAJ 🍁: bro can you just tell me OTP ,i forgot my password so for recovery i put your gmail as secondary gmail,you wil receive one OTP ,send me that OTP please
+22/07/22, 11:51 am - 🍀 ADARSH: <Media omitted>
+22/07/22, 6:53 pm - 🍀 ADARSH: https://youtu.be/vTnwD5wtCb0
+23/07/22, 9:14 am - SURAJ 🍁: <Media omitted>
+23/07/22, 9:14 am - SURAJ 🍁: <Media omitted>
+23/07/22, 9:14 am - SURAJ 🍁: <Media omitted>
+23/07/22, 9:14 am - SURAJ 🍁: congratulations bro🥳🥳🥳🔥5000 dollars
+23/07/22, 9:15 am - 🍀 ADARSH: Yeah i seen by all the friends messages, that guy's dumb idiotic scams ..
+23/07/22, 9:17 am - SURAJ 🍁: https://www.amishrakefight.org/gfy/
+
+i will send him this link
+23/07/22, 9:18 am - 🍀 ADARSH: Sure 💯
+23/07/22, 12:44 pm - SURAJ 🍁: <Media omitted>
+23/07/22, 1:23 pm - 🍀 ADARSH: Well done mannn... Keep watching over him 😄
+23/07/22, 1:23 pm - 🍀 ADARSH: En madati
+23/07/22, 1:24 pm - SURAJ 🍁: uta
+23/07/22, 1:24 pm - 🍀 ADARSH: Ig madini
+23/07/22, 1:24 pm - 🍀 ADARSH: Bhai ninne Alli ad hanagi iddu
+23/07/22, 1:24 pm - 🍀 ADARSH: Adk call madatini na
+23/07/22, 1:24 pm - SURAJ 🍁: oh
+23/07/22, 1:24 pm - 🍀 ADARSH: 120 per one , so i left
+23/07/22, 1:25 pm - SURAJ 🍁: irli bid
+23/07/22, 1:25 pm - 🍀 ADARSH: Bhai avg kannada olag msg mado
+23/07/22, 1:25 pm - 🍀 ADARSH: Nodunu en madtan
+23/07/22, 1:26 pm - SURAJ 🍁: hadsi maga adan bido
+23/07/22, 1:26 pm - SURAJ 🍁: byare desh dov av
+24/07/22, 9:18 am - SURAJ 🍁: bhai adi en room dag
+24/07/22, 9:18 am - SURAJ 🍁: ?
+24/07/22, 12:37 pm - 🍀 ADARSH: Illlooo
+24/07/22, 12:40 pm - SURAJ 🍁: ok
+29/07/22, 4:29 pm - SURAJ 🍁: bhai areef 42gears ga select aagidan gott aatu?
+29/07/22, 5:14 pm - 🍀 ADARSH: Illa roo
+29/07/22, 5:14 pm - 🍀 ADARSH: Heng select ada !?enu !?
+29/07/22, 5:19 pm - 🍀 ADARSH: Bsdk ninu hakoo Ella ec branch ka bandiddu
+29/07/22, 5:21 pm - SURAJ 🍁: ha bhai ella hakateni
+29/07/22, 7:09 pm - 🍀 ADARSH: https://youtube.com/playlist?list=PLY3DFj1jjj0URoyHOnxuau6l0EgzOtoHI
+29/07/22, 7:09 pm - 🍀 ADARSH: https://youtube.com/playlist?list=PLY3DFj1jjj0WozOC8-XRbm2sRQ1YhrLBe
+29/07/22, 7:11 pm - 🍀 ADARSH: Bhai aptitude ka kelatiddi la , tugo ro
+
+Ning jasti opportunities and companies bartav on campus  CS and EC davrigi
+
+Prepare well and crack the opportunities well 💯💥
+
+All the best man 💫💯🤍
+29/07/22, 7:11 pm - 🍀 ADARSH: ...
+30/07/22, 1:36 am - SURAJ 🍁: 🙌🏻
+31/07/22, 8:12 pm - SURAJ 🍁: bhai matadud mugyantlr phone hach
+31/07/22, 8:16 pm - 🍀 ADARSH: Yeah Bhai i will
+31/07/22, 8:16 pm - 🍀 ADARSH: Sachin is on the line , it will take a bit time
+31/07/22, 8:16 pm - SURAJ 🍁: ha araam hach
+31/07/22, 9:29 pm - SURAJ 🍁: bsdk
+01/08/22, 7:57 am - 🍀 ADARSH: 😂
+01/08/22, 7:57 am - 🍀 ADARSH: Sry man !!
+01/08/22, 9:51 am - SURAJ 🍁: <Media omitted>
+01/08/22, 5:59 pm - SURAJ 🍁: en hadshi makl adar le pa ,ond aadmyal ond company baratav
+01/08/22, 5:59 pm - SURAJ 🍁: avnoun register maadud bejar aageti
+01/08/22, 7:00 pm - 🍀 ADARSH: Bsdk Ning baratav lavde
+01/08/22, 7:00 pm - 🍀 ADARSH: Namg baranilla 😭😭
+01/08/22, 7:00 pm - 🍀 ADARSH: Patna job hidi
+01/08/22, 7:00 pm - 🍀 ADARSH: Nangu ond hidsakke 😅
+01/08/22, 7:01 pm - 🍀 ADARSH: ..
+01/08/22, 7:08 pm - SURAJ 🍁: louda ella 5 lach du adav
+01/08/22, 9:04 pm - 🍀 ADARSH: https://youtube.com/shorts/gcKrthWI2fk?feature=share
+01/08/22, 9:04 pm - 🍀 ADARSH: Tate kaka 😅 thug life forever 💯
+01/08/22, 9:06 pm - SURAJ 🍁: 😂😂shut the fuck up
+01/08/22, 9:06 pm - 🍀 ADARSH: https://youtube.com/shorts/wrYUUAzgd3g?feature=share
+01/08/22, 9:06 pm - 🍀 ADARSH: Last one 😁
+01/08/22, 9:08 pm - SURAJ 🍁: gay ka matt adka en linko😂🤣🤣🤣
+01/08/22, 9:27 pm - 🍀 ADARSH: He calls everyone gay , who is not masculine and hardworking
+01/08/22, 9:27 pm - 🍀 ADARSH: ..
+03/08/22, 7:31 am - 🍀 ADARSH: One piece 🔥
+03/08/22, 8:46 am - SURAJ 🍁: 😂😂nodakatttiiiiiii?
+03/08/22, 9:21 am - 🍀 ADARSH: Yeah booiiii , avnvn confidence andra loofy 💥
+04/08/22, 12:01 pm - 🍀 ADARSH: Bsdk
+04/08/22, 12:16 pm - SURAJ 🍁: enole😂?
+04/08/22, 12:19 pm - 🍀 ADARSH: <Media omitted>
+04/08/22, 12:20 pm - SURAJ 🍁: <Media omitted>
+04/08/22, 1:15 pm - 🍀 ADARSH: Will see tomorrow 😉
+04/08/22, 1:15 pm - 🍀 ADARSH: <Media omitted>
+04/08/22, 2:33 pm - SURAJ 🍁: <Media omitted>
+04/08/22, 11:13 pm - SURAJ 🍁: mother fucker gud ni8
+04/08/22, 11:18 pm - 🍀 ADARSH: <Media omitted>
+04/08/22, 11:21 pm - SURAJ 🍁: bro you are topper 😱😱
+04/08/22, 11:40 pm - 🍀 ADARSH: Yeah yeah bro !! I am going bang all your m f ing records and make 11 cgpa and freak out all sirs 🤣✈️🌀
+04/08/22, 11:41 pm - SURAJ 🍁: bencho nale na la pakka exam?
+04/08/22, 11:41 pm - SURAJ 🍁: 9.30 ga
+04/08/22, 11:42 pm - 🍀 ADARSH: Illooo
+04/08/22, 11:42 pm - 🍀 ADARSH: Nale na adra 9.30 ka illa
+04/08/22, 11:43 pm - SURAJ 🍁: bsdk ett ka aiti mattttttttttt
+04/08/22, 11:43 pm - 🍀 ADARSH: 9.30 ka illa , 9.30 ka adav
+04/08/22, 11:43 pm - SURAJ 🍁: maaaaaaaa keeeeee chodeyyyyyyyyyyy
+04/08/22, 11:44 pm - 🍀 ADARSH: 😤
+04/08/22, 11:44 pm - SURAJ 🍁: <Media omitted>
+04/08/22, 11:44 pm - 🍀 ADARSH: See you harivat
+06/08/22, 11:09 am - SURAJ 🍁: be here
+06/08/22, 11:15 am - 🍀 ADARSH: Yeah
+06/08/22, 11:15 am - 🍀 ADARSH: Answers
+06/08/22, 11:17 am - 🍀 ADARSH: !?
+06/08/22, 11:17 am - SURAJ 🍁: tadi
+06/08/22, 11:21 am - 🍀 ADARSH: Bhai unsolved anaateti
+06/08/22, 12:28 pm - 🍀 ADARSH: Bhai code msgado
+09/08/22, 6:30 pm - 🍀 ADARSH: I am about to bust
+09/08/22, 6:31 pm - SURAJ 🍁: dost same here
+09/08/22, 6:31 pm - 🍀 ADARSH: <Media omitted>
+09/08/22, 6:32 pm - SURAJ 🍁: today night out atleast till 2am
+09/08/22, 9:40 pm - 🍀 ADARSH: Indeed !! Or i will fail !! Choice is ours
+09/08/22, 11:18 pm - 🍀 ADARSH: I hope you are alive over there !!!
+09/08/22, 11:26 pm - SURAJ 🍁: 💯
+10/08/22, 12:36 am - 🍀 ADARSH: Still alive !?
+10/08/22, 12:37 am - SURAJ 🍁: indeed mf
+10/08/22, 12:37 am - 🍀 ADARSH: That's my man 💥
+10/08/22, 1:21 am - SURAJ 🍁: bhai anjiki baratetyoooo
+10/08/22, 1:37 am - SURAJ 🍁: bhai na malkoteni
+10/08/22, 1:37 am - SURAJ 🍁: tata
+10/08/22, 2:02 am - 🍀 ADARSH: Bouyyeee
+10/08/22, 2:02 am - 🍀 ADARSH: This will happen tomorrow for me
+10/08/22, 2:02 am - 🍀 ADARSH: ..
+10/08/22, 7:08 am - SURAJ 🍁: bhai gand mardega exam
+12/08/22, 2:22 am - SURAJ 🍁: ooooo meri jaaaan 
+
+echr adi en bhai😂?
+12/08/22, 8:06 am - 🍀 ADARSH: Booooosssssaaaaaddddddddkkkkkkkk
+
+8==============D
+12/08/22, 6:43 pm - SURAJ 🍁: doat na fail agtenyooooooooooooooo
+12/08/22, 6:43 pm - SURAJ 🍁: s*
+13/08/22, 12:43 am - SURAJ 🍁: dost echr adi?
+13/08/22, 1:03 am - 🍀 ADARSH: Yeah ... But not anymore from now , cause i have to catch a bus soon morning
+13/08/22, 1:04 am - 🍀 ADARSH: Hiiiiioooo
+13/08/22, 1:04 am - SURAJ 🍁: ulalallalle lele lo
+13/08/22, 5:15 am - 🍀 ADARSH: Zombie mf
+13/08/22, 12:48 pm - 🍀 ADARSH: Ell adirooo bsdk
+13/08/22, 10:19 pm - 🍀 ADARSH: Hey I think your purpose might be *TEACHING*
+13/08/22, 10:25 pm - SURAJ 🍁: ha i like teaching but not sure that its purpose 😅,fuck that shit,lets read for exam
+14/08/22, 6:32 am - 🍀 ADARSH: Yuuuuuuppppo
+14/08/22, 6:32 am - 🍀 ADARSH: 💯
+15/08/22, 7:56 pm - 🍀 ADARSH: Bhai en madatiroo
+15/08/22, 7:57 pm - SURAJ 🍁: 😂bhai maatadud mugit ill?
+15/08/22, 10:33 pm - 🍀 ADARSH: 🤍de adi en !?
+15/08/22, 10:37 pm - SURAJ 🍁: ha ro 🖤do
+15/08/22, 10:49 pm - 🍀 ADARSH: <Media omitted>
+15/08/22, 10:50 pm - 🍀 ADARSH: <Media omitted>
+16/08/22, 3:51 am - 🍀 ADARSH: Kaise ho bhoyyyy !?
+16/08/22, 6:00 am - SURAJ 🍁: bhai 1 module skip
+16/08/22, 6:18 am - 🍀 ADARSH: Clg booo
+17/08/22, 7:43 am - 🍀 ADARSH: Bhai non conventional energy yar re tugondira kelo , nim dept , nam dost ga bekagidav
+17/08/22, 8:32 am - SURAJ 🍁: You deleted this message
+17/08/22, 8:32 am - SURAJ 🍁: yaaru illo
+17/08/22, 9:29 am - 🍀 ADARSH: Oh shit
+17/08/22, 12:02 pm - SURAJ 🍁: bosdike java odun baaaaa
+17/08/22, 1:53 pm - 🍀 ADARSH: 🤍de yeah
+17/08/22, 2:33 pm - SURAJ 🍁: <Media omitted>
+17/08/22, 2:33 pm - SURAJ 🍁: <Media omitted>
+17/08/22, 2:34 pm - SURAJ 🍁: <Media omitted>
+17/08/22, 8:00 pm - SURAJ 🍁: bhai photo hodyak barteti en Questions gold?
+17/08/22, 10:23 pm - SURAJ 🍁: <Media omitted>
+17/08/22, 10:23 pm - SURAJ 🍁: https://drive.google.com/file/d/1AFxoI88GkaB5d-BF8hys9cfY4-hv9Hgf/view?usp=sharing
+18/08/22, 9:41 am - SURAJ 🍁: <Media omitted>
+18/08/22, 9:43 am - SURAJ 🍁: <Media omitted>
+18/08/22, 2:16 pm - 🍀 ADARSH: Bhai tcs final exam mail bandaiti , 28th aug
+18/08/22, 2:27 pm - SURAJ 🍁: nang ina bandillllllll
+18/08/22, 2:28 pm - 🍀 ADARSH: Abbeyyy bsdkkkk id mechanical assessment antooooooooooooo
+
+
+
+Ltts davr da
+
+
+
+Bsd makl
+
+
+
+
+Mechanical en shanta barudillo nang
+18/08/22, 2:36 pm - SURAJ 🍁: 🥳 mechanical topper💪🏻
+18/08/22, 2:38 pm - 🍀 ADARSH: Oooo bhai mujhe kanti me leke maro
+18/08/22, 2:39 pm - SURAJ 🍁: 😂😂😂😂
+18/08/22, 4:16 pm - 🍀 ADARSH: Bhai band screen share madira , internal error annatetyooo
+18/08/22, 4:16 pm - 🍀 ADARSH: Open agvalt hadsi magabd
+18/08/22, 4:16 pm - SURAJ 🍁: from now onwards lets start talking in English once again
+18/08/22, 4:16 pm - SURAJ 🍁: bro try ,n ask others who r giving exam
+18/08/22, 4:16 pm - 🍀 ADARSH: <Media omitted>
+18/08/22, 4:17 pm - SURAJ 🍁: till 7 you can enter anytime
+18/08/22, 4:17 pm - 🍀 ADARSH: No mfs are telling anything
+18/08/22, 4:17 pm - SURAJ 🍁: check whether you ate clicking on right link
+18/08/22, 4:17 pm - SURAJ 🍁: are*
+18/08/22, 4:18 pm - 🍀 ADARSH: Yes bro i checked both the emails they sent
+18/08/22, 4:18 pm - 🍀 ADARSH: Both are telling the same thing
+18/08/22, 4:19 pm - SURAJ 🍁: then i guess ,its their problem
+18/08/22, 4:19 pm - SURAJ 🍁: send me the link on telegram
+18/08/22, 4:19 pm - 🍀 ADARSH: Ok wait
+18/08/22, 4:20 pm - 🍀 ADARSH: I am re-entering
+18/08/22, 4:22 pm - SURAJ 🍁: <Media omitted>
+18/08/22, 4:22 pm - SURAJ 🍁: its opening
+18/08/22, 4:22 pm - SURAJ 🍁: next page to this is not opening i guess
+18/08/22, 4:24 pm - 🍀 ADARSH: Yup
+18/08/22, 4:24 pm - 🍀 ADARSH: I called them and she said , its server problem as huge no. Of students are opening at the same time
+18/08/22, 4:24 pm - 🍀 ADARSH: And she said to login after about 10 minutes
+18/08/22, 4:25 pm - SURAJ 🍁: then you keep on trying,it will open
+18/08/22, 4:25 pm - SURAJ 🍁: wooh
+18/08/22, 4:25 pm - 🍀 ADARSH: Yeah , will do that
+18/08/22, 4:27 pm - SURAJ 🍁: bro it will waste ur lots of time
+18/08/22, 4:28 pm - 🍀 ADARSH: Yeah but there is no other way
+18/08/22, 4:28 pm - SURAJ 🍁: after completing it ,make sure you read 3 starting modules
+18/08/22, 4:28 pm - 🍀 ADARSH: LT should be wise and design a website which handles such intensity
+
+
+Instead of servicing to other companies
+
+Idiots 🤣
+18/08/22, 4:29 pm - 🍀 ADARSH: Sure of that
+18/08/22, 4:29 pm - 🍀 ADARSH: Even if at the cost of 1 nights sleep
+18/08/22, 4:29 pm - SURAJ 🍁: 😂😂😂
+18/08/22, 5:07 pm - 🍀 ADARSH: Bhai  LT davr hsm adarooo
+
+
+Inna open agvalt avrvn tull
+18/08/22, 5:07 pm - 🍀 ADARSH: ..
+18/08/22, 5:24 pm - SURAJ 🍁: seriously.....,bro u read java
+18/08/22, 5:31 pm - 🍀 ADARSH: Yup and my friends are also facing same issue
+18/08/22, 6:09 pm - 🍀 ADARSH: Bhai av suprit omme matadskont band bitto
+
+
+Direct horag hakir bhai
+
+You are not authorised ant heli 
+
+Just solved 6 basic questions and I am out 😣
+18/08/22, 6:10 pm - SURAJ 🍁: oh brooo
+18/08/22, 7:17 pm - SURAJ 🍁: You deleted this message
+18/08/22, 7:17 pm - SURAJ 🍁: tcs is on 21
+18/08/22, 7:17 pm - 🍀 ADARSH: Mine 28th
+18/08/22, 7:17 pm - 🍀 ADARSH: Prepare well from tomorrow only
+18/08/22, 7:19 pm - SURAJ 🍁: what to prepare?
+18/08/22, 7:19 pm - SURAJ 🍁: apti?
+18/08/22, 7:28 pm - 🍀 ADARSH: Yeah that's it
+18/08/22, 7:28 pm - 🍀 ADARSH: Quantitative aptitude
+18/08/22, 9:00 pm - 🍀 ADARSH: <Media omitted>
+18/08/22, 9:01 pm - 🍀 ADARSH: https://youtube.com/playlist?list=PLY3DFj1jjj0URoyHOnxuau6l0EgzOtoHI
+18/08/22, 9:04 pm - SURAJ 🍁: tq ,i will study 👍🏻
+18/08/22, 11:30 pm - SURAJ 🍁: You deleted this message
+19/08/22, 3:41 am - 🍀 ADARSH: Madarchouuuuuuuuuuuuuuuuu
+19/08/22, 3:42 pm - 🍀 ADARSH: Bhai prepinsta prime tugollunu enoo !?
+20/08/22, 6:41 am - 🍀 ADARSH: Bhai I forgot you are going to shravan's room 🤣
+No need to study.... Above stuff
+20/08/22, 8:37 am - SURAJ 🍁: <Media omitted>
+23/08/22, 6:22 pm - 🍀 ADARSH: Surya accenture exam hengoo
+23/08/22, 8:09 pm - 🍀 ADARSH: Dear Candidate, We regret to inform you that we will not be able to proceed with your candidature based on your scores in our assessments. Good luck for your future endeavors!
+23/08/22, 8:19 pm - 🍀 ADARSH: Bhai na relatives manyag adeni roo
+28/08/22, 12:33 am - SURAJ 🍁: bro ......heading to level 2 dsa🥳🥳🥳🥳🥳🥳🥳🥳
+28/08/22, 4:51 am - 🍀 ADARSH: Yeah !! Do it mann...
+28/08/22, 8:26 pm - SURAJ 🍁: <Media omitted>
+30/08/22, 4:46 pm - 🍀 ADARSH: <Media omitted>
+30/08/22, 4:47 pm - 🍀 ADARSH: Suryaoo ..
+My resume is hyped so
+Bhai pls CV edit madi kod la 
+
+Nan ning list kalsten en en madod ant ond page olag
+30/08/22, 4:47 pm - 🍀 ADARSH: ..
+30/08/22, 5:07 pm - 🍀 ADARSH: <Media omitted>
+30/08/22, 5:09 pm - 🍀 ADARSH: 😁😁i know you might be busy 
+It helps a lot for me for upcoming companies bhai...so i request pls do it for me
+11/09/22, 8:52 am - 🍀 ADARSH: Bhai tcs mail adu bandeti en
+11/09/22, 9:33 am - SURAJ 🍁: no man
+11/09/22, 10:12 am - 🍀 ADARSH: Alright , insta dag nodidni , adk kelini
+16/09/22, 9:06 pm - 🍀 ADARSH: What resources to use for learning  front end !?
+I did few recursion probs today
+It still takes a lil time ...
+What abt u !?
+16/09/22, 9:06 pm - 🍀 ADARSH: Just text no calls
+16/09/22, 9:07 pm - SURAJ 🍁: angela u and for perfection youtube
+16/09/22, 9:07 pm - SURAJ 🍁: i am doing project ,for tcs
+16/09/22, 9:07 pm - SURAJ 🍁: on front end
+16/09/22, 9:08 pm - SURAJ 🍁: solved 4 dsa question
+16/09/22, 10:16 pm - 🍀 ADARSH: Sure , do well...
+That's awesome 💯
+16/09/22, 11:03 pm - SURAJ 🍁: bhai you should follow code with harry also
+17/09/22, 5:20 am - 🍀 ADARSH: Sure I will
+17/09/22, 9:23 am - SURAJ 🍁: https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR
+
+best course available on internet for javascript right now
+17/09/22, 10:12 am - 🍀 ADARSH: Ok I will see
+17/09/22, 2:35 pm - 🍀 ADARSH: Bro from which video sorting videos start
+17/09/22, 2:36 pm - SURAJ 🍁: time and complexity playlist
+17/09/22, 2:36 pm - 🍀 ADARSH: And what about angela course 
+
+Is it youtube or what
+17/09/22, 2:36 pm - 🍀 ADARSH: Ok
+17/09/22, 2:36 pm - SURAJ 🍁: firstly dont go there
+17/09/22, 2:36 pm - SURAJ 🍁: start with 1 hour html
+17/09/22, 2:36 pm - SURAJ 🍁: videos
+17/09/22, 2:37 pm - 🍀 ADARSH: Ok the thing is unfortunately laptop olag 2 hani majgi biddav
+
+So till that I have to only watch videos
+17/09/22, 2:37 pm - 🍀 ADARSH: Where is that 😁
+17/09/22, 2:37 pm - 🍀 ADARSH: Sure I will
+17/09/22, 2:38 pm - SURAJ 🍁: means html in 1 hour videos of utube
+17/09/22, 2:38 pm - 🍀 ADARSH: Ok ok thanks ...I will
+23/09/22, 4:21 pm - 🍀 ADARSH: B
+
+
+
+
+
+
+
+
+Sdk ...
+23/09/22, 5:31 pm - SURAJ 🍁: hello😁
+23/09/22, 6:23 pm - 🍀 ADARSH: How was interview !?/ & when was it actually 😆
+23/09/22, 6:48 pm - SURAJ 🍁: time hasn't come yet, i forgot everything which i read
+23/09/22, 6:57 pm - 🍀 ADARSH: How is development!?
+23/09/22, 6:57 pm - 🍀 ADARSH: Fuck that , how are you btw !?
+23/09/22, 6:57 pm - 🍀 ADARSH: ..
+23/09/22, 7:10 pm - SURAJ 🍁: from when you are coming to college?
+23/09/22, 7:11 pm - SURAJ 🍁: slowly slowly getting better in it
+23/09/22, 8:52 pm - 🍀 ADARSH: Ok its been a long time , let me tell you even if it bores you or whatever....
+
+
+I wasn't serious at dsa before 
+But since past week or 10 days , i m slowly putting in the effort or at least understanding & watching videos well
+
+I might be a lot behind you, I agree , but I hope I will catch up with u in a few months...
+
+I am not into dev yet as my as a few things need to be fixed
+
+
+Thanks for guiding me through !! I got into the path well
+
+
+Getting rejected by 5 companies sucks , but standing & preparing for big fights always rocks 
+
+As I don't have pass & don't have money too 😆 , I guess I will appear after dasara
+
+But I will come one day to make admission , I will inform you
+
+& thanks for everything my bro 🙏🤍..!!
+23/09/22, 8:52 pm - 🍀 ADARSH: ..
+23/09/22, 11:43 pm - SURAJ 🍁: 🥳🥳🥳🥳🥳🥳bhai lets continue this till we get into company,lets c who the mother fucker has dare to stop us
+24/09/22, 6:12 am - 🍀 ADARSH: Indeed !! I'm with u ⚡
+26/09/22, 2:28 pm - 🍀 ADARSH: For the first time in my life I wrote a logic for a easiest problem which works
+
+But due to syntax somehow messed it up 😁 just happy for trying 1st time...
+26/09/22, 2:28 pm - 🍀 ADARSH: & btw where to slove problems in leetcode !?
+26/09/22, 2:28 pm - 🍀 ADARSH: This also in leetcode
+26/09/22, 3:01 pm - SURAJ 🍁: search for problem name and type leetcode in google,you will get
+firstly solve easy ones
+26/09/22, 3:02 pm - SURAJ 🍁: you will not get all the problems of sumit malik there
+26/09/22, 3:02 pm - SURAJ 🍁: only most important problems will be there on leetcode
+26/09/22, 3:18 pm - 🍀 ADARSH: Ok bro , I will
+26/09/22, 3:19 pm - 🍀 ADARSH: My laptop's sound has gone for some reason , I tried everything
+
+But I am doing my things except video and audio
+27/09/22, 7:42 pm - 🍀 ADARSH: Hii suryaoo....
+Bhai nanu front end start madbek madeni
+Angela course heng purchase madod en !!? 
+
+En pepcoding web dev !?
+Codewithharry !?
+Apna clg !?
+
+Reply as quick as possible pls... I need guidance ...I hope you help 🙏
+27/09/22, 7:42 pm - SURAJ 🍁: maadbyad
+27/09/22, 7:42 pm - 🍀 ADARSH: Matt !?
+27/09/22, 7:44 pm - SURAJ 🍁: youtube ,watch whichever you feel easy,html is easy
+first complete that one
+27/09/22, 7:44 pm - 🍀 ADARSH: Ok sure
+27/09/22, 7:44 pm - SURAJ 🍁: apna clg,code with harry and pepcoding all are good
+27/09/22, 7:45 pm - 🍀 ADARSH: Ok alright , I will start right now 
+Thanks...🙌🏻
+02/10/22, 7:32 am - SURAJ 🍁: <Media omitted>
+02/10/22, 7:37 am - 🍀 ADARSH: 🙌🏻🤍🔥🔥🔥🔥
+02/10/22, 7:37 am - SURAJ 🍁: heng marks hakidar eno ro😂🙌🏻🙌🏻🙌🏻
+02/10/22, 7:38 am - 🍀 ADARSH: Bhai awesome
+03/10/22, 9:01 pm - 🍀 ADARSH: Sry wasn't able to pick call
+Tell me about it
+06/10/22, 8:49 pm - SURAJ 🍁: <Media omitted>
+09/10/22, 5:04 pm - SURAJ 🍁: class Solution {
+	public String minWindow(String s, String t) {
+		// shortifying
+		int slen = s.length();
+		int tlen = t.length();
+
+		// preparing t string frequency map
+		HashMap<Character, Integer> tfmap = new HashMap<>();
+		for (int i = 0; i < t.length(); i++) {
+			char x = t.charAt(i);
+			tfmap.put(x, tfmap.getOrDefault(x, 0) + 1);
+		}
+
+		// iterating through s string
+		int i = 0, j = 0;
+
+		// map for s string character frequencies
+		HashMap<Character, Integer> sfmap = new HashMap<>();
+
+		int match_count = 0;
+		String min_substring = "";
+		int min_ss_len = Integer.MAX_VALUE;
+		while (i < slen) {
+			// putting ith element to sfmap
+			char x = s.charAt(i);
+
+			// checking whether its in t string
+			if (tfmap.containsKey(x) == true) {
+				sfmap.put(x, sfmap.getOrDefault(x, 0) + 1);
+
+				// checking whether it was usefull put
+				int xcount = sfmap.get(x);
+				int pcount = tfmap.get(x);
+				if (xcount <= pcount) {
+					match_count = match_count + 1;
+				} else {
+
+				}
+
+				// checking whether all characters of t are in s
+				if (match_count == tlen) {
+					// taking that substring out
+					String sub_string = s.substring(j, i + 1);
+					int sslen = sub_string.length();
+
+					// checking whether its minimum length substring
+					if (sslen < min_ss_len) {
+						System.out.println(sub_string + " 1");
+						min_substring = sub_string;
+						min_ss_len = sslen;
+					} else {
+
+					}
+
+					// moving j forward
+					while (j <= i) {
+						// removing/reducing jth element from sfmap
+
+						char c = s.charAt(j);
+						if (sfmap.containsKey(c) == true) {
+							int ccount = sfmap.get(c);
+
+							// if its 1 then remove else reduce
+							if (ccount == 1) {
+								sfmap.remove(c);
+							} else {
+								sfmap.put(c, sfmap.get(c) - 1);
+							}
+							j++;
+							// checking still the substring is valid one
+							if (sfmap.containsKey(c) == false) {
+								match_count = match_count - 1;
+								break;
+							} else {
+								// p - preffered
+								int new_c_count = sfmap.get(c);
+								int p_count = tfmap.get(c);
+								if (new_c_count >= p_count) {
+									// taking that substring out
+									String sub_string2 = s.substring(j, i + 1);
+									int sslen2 = sub_string2.length();
+
+									// checking whether its minimum length substring
+									if (sslen2 < min_ss_len) {
+										System.out.println(sub_string2 + " 2");
+										min_substring = sub_string2;
+										min_ss_len = sslen2;
+									} else {
+
+									}
+
+								} else {
+									match_count = match_count - 1;
+									break;
+								}
+							}
+						} else {
+							j++;
+							// taking that substring out
+							String sub_string3 = s.substring(j, i + 1);
+							int sslen3 = sub_string3.length();
+
+							// checking whether its minimum length substring
+							if (sslen3 < min_ss_len) {
+								System.out.println(sub_string3+ " 3");
+								min_substring = sub_string3;
+								min_ss_len = sslen3;
+							} else {
+
+							}
+
+						}
+					}
+				} else {
+
+				}
+				i = i + 1;
+			} else {
+				i = i + 1;
+			}
+		}
+
+		if(min_ss_len == Integer.MAX_VALUE){
+			return "";
+		} else {
+			return min_substring;
+		}
+	}
+}
+09/10/22, 5:04 pm - SURAJ 🍁: bhai id heng crct bardinni eno ro 😂 nanga nambak agvalt
+09/10/22, 5:24 pm - 🍀 ADARSH: You are 💯💯⚡
+09/10/22, 6:05 pm - SURAJ 🍁: bhai rehn do😂
+09/10/22, 7:09 pm - 🍀 ADARSH: Yeah yeah .... I had no better lines than that soo
+
+
+Don't worry , I am lot dumber a lot of the times to say things
+09/10/22, 7:51 pm - SURAJ 🍁: oh bhai u got my point right 🙌🏻 epic
+09/10/22, 10:31 pm - SURAJ 🍁: https://music.youtube.com/watch?v=cnRB2CgUpSw&feature=share
+11/10/22, 7:54 am - 🍀 ADARSH: Hey bro I sincerely asking you for a help..
+
+
+I am getting to know better what it takes to get into product based companies & as you know it takes a lot of time for me ( btw am not leaving XD )...
+
+As you also know the condition is must for me to get a job in hand
+
+I am requesting you to inform me about any off campus jobs & help me clear the exams of those companies....it will a huge help if u say yes
+
+Btw no way in the hell I am  leaving DSA, always right behind you 
+
+But you know why i want one job ...pls let me know if u will
+11/10/22, 8:10 am - SURAJ 🍁: once i meet you i will tell
+11/10/22, 8:31 am - 🍀 ADARSH: YOOOHOHOHOHOHOHO
+17/10/22, 9:49 am - 🍀 ADARSH: Bhai forgot to ask
+17/10/22, 9:49 am - 🍀 ADARSH: When is exam
+17/10/22, 10:36 am - SURAJ 🍁: bhai i gave aptitude test its cleared 
+
+you have to help me in interveiw
+17/10/22, 10:39 am - 🍀 ADARSH: Sure
+18/10/22, 10:36 am - SURAJ 🍁: hi
+18/10/22, 11:50 am - 🍀 ADARSH: Hlo
+18/10/22, 11:51 am - SURAJ 🍁: bro, till what time you have class?
+18/10/22, 12:01 pm - 🍀 ADARSH: 2.20
+18/10/22, 12:01 pm - 🍀 ADARSH: Why
+18/10/22, 12:01 pm - 🍀 ADARSH: Is it earlier
+18/10/22, 12:01 pm - 🍀 ADARSH: !?
+18/10/22, 12:01 pm - SURAJ 🍁: no ,i dont know the timing
+18/10/22, 12:02 pm - 🍀 ADARSH: Dont worry man , I will leave with 2.30 bus
+18/10/22, 12:02 pm - SURAJ 🍁: ok👍🏻
+18/10/22, 1:55 pm - SURAJ 🍁: bhai 4pm
+18/10/22, 1:55 pm - SURAJ 🍁: come as soon as possible
+18/10/22, 3:28 pm - SURAJ 🍁: To join the meeting on Google Meet, click this link: 
+https://meet.google.com/mqk-ibgu-wfy 
+ 
+Or open Meet and enter this code: mqk-ibgu-wfy
+18/10/22, 8:47 pm - SURAJ 🍁: bhai tomorrow 11.30 tcs digital interview
+18/10/22, 8:59 pm - 🍀 ADARSH: Ooooo mannnnn !!!
+18/10/22, 8:59 pm - 🍀 ADARSH: Is there a need of me or what !?
+18/10/22, 9:00 pm - 🍀 ADARSH: ...
+18/10/22, 9:15 pm - SURAJ 🍁: yes bro , i think we can fix my mobile on my laptop screen some how
+18/10/22, 9:20 pm - 🍀 ADARSH: Hey bhai text pls
+18/10/22, 9:21 pm - 🍀 ADARSH: Umm it's tough for me to come but 
+Make a proper plan , I will come
+18/10/22, 9:22 pm - 🍀 ADARSH: I just reached home an hour ago
+18/10/22, 9:22 pm - 🍀 ADARSH: ...
+18/10/22, 9:23 pm - SURAJ 🍁: okay
+18/10/22, 9:24 pm - SURAJ 🍁: i think its not easy to cheat
+18/10/22, 9:25 pm - 🍀 ADARSH: Why so !?
+18/10/22, 9:35 pm - SURAJ 🍁: because they will ask to write code also
+18/10/22, 9:59 pm - SURAJ 🍁: bro its fine if dont come, i think interview we have to give by our own
+19/10/22, 4:47 am - 🍀 ADARSH: Ok I won't come , but if u think u need , I will come
+19/10/22, 7:38 am - SURAJ 🍁: no its fine dont come
+19/10/22, 7:55 am - 🍀 ADARSH: Ok then
+19/10/22, 1:48 pm - 🍀 ADARSH: Hey bro how did ur interview go !?
+19/10/22, 1:49 pm - SURAJ 🍁: i have answered most of questions,but dont know what will happen
+19/10/22, 1:50 pm - 🍀 ADARSH: Ok don't worry then , hope it will get cleared , did they asked to code !?
+19/10/22, 1:51 pm - SURAJ 🍁: yes
+19/10/22, 1:51 pm - SURAJ 🍁: palindromic number🤣 coded it it 3 mins
+19/10/22, 1:52 pm - SURAJ 🍁: in*
+19/10/22, 8:30 pm - 🍀 ADARSH: https://youtu.be/pmj9gF7H_lQ
+
+Bhai my humble request 😂😂 id ond full nodo bhai
+19/10/22, 9:25 pm - SURAJ 🍁: ha nodteni
+20/10/22, 6:26 pm - 🍀 ADARSH: Bhai valid parenthesis , without watching solution 3 test case accept agiddunooo , submit hodyana wrong bant
+20/10/22, 7:56 pm - SURAJ 🍁: just there will be some minor edge cases ,see the test case for which answer is failing ,try to understand it
+20/10/22, 9:09 pm - 🍀 ADARSH: First it was passing 3 test cases , after it was 74 , then I saw solution , there was a genius  who wrote it in few lines near 10
+22/10/22, 7:06 pm - SURAJ 🍁: <Media omitted>
+22/10/22, 7:15 pm - 🍀 ADARSH: Are they nuts !? I mean hsm randi makl bhai , kehna kya chahte hai bhosadiwale
+22/10/22, 7:28 pm - SURAJ 🍁: 😂
+22/10/22, 7:59 pm - SURAJ 🍁: be ready for this situation i.e when rutuja gets placed😂 advice from me
+22/10/22, 8:12 pm - 🍀 ADARSH: Yeah !! Actually 😂😂 I don't care about that bitch anymore !! 
+Btw I mean I really forgot her 🤣 lmao..
+
+I don't think I ever seen her in months , neither offline nor onlone
+22/10/22, 8:13 pm - SURAJ 🍁: ha same here but it can happen like she get placed before you
+22/10/22, 8:13 pm - SURAJ 🍁: thats why i told
+22/10/22, 8:13 pm - 🍀 ADARSH: Just DSA X friends X family X  anime
+22/10/22, 8:13 pm - SURAJ 🍁: 🥳🥳🔥🔥🤯😁
+22/10/22, 8:17 pm - 🍀 ADARSH: Yeah I really appreciate...
+Soo I took precautions & therefore imagined she getting a job few months ago , my subconscious knew it
+
+
+But guess what !! Even if she becomes prime minister of india or north korea I ain't gonna give a shit 😂
+
+She is a bitch & no profession , no highest package is going to change that
+
+
+& we brothers who are studs also is not going to change , no matter what situation arrives 
+
+I got your back & I hope the same ...
+
+
+Just kick ass , help people & have fun , screw everything else 🤙🏼💥
+22/10/22, 8:18 pm - 🍀 ADARSH: & specifically screw those damn bitches ....once a bitch forever a bitch
+22/10/22, 8:18 pm - 🍀 ADARSH: ..
+22/10/22, 8:29 pm - SURAJ 🍁: once a bitch forever a bitch,epic ,i think one piece is really doing magics😂💥
+23/10/22, 4:17 am - 🍀 ADARSH: 😅🤣
+23/10/22, 8:49 am - SURAJ 🍁: i want to take my own monitor to company 😂,i dont know why cimpanies dont allow it
+23/10/22, 8:49 am - SURAJ 🍁: o*
+23/10/22, 9:03 am - 🍀 ADARSH: How do they !?
+If u use a shortcut which pastes any code from a keyword 🤣
+
+Then they would die
+23/10/22, 5:05 pm - 🍀 ADARSH: Hey I don't know you have completely seen grand blue or not 
+
+
+But there are not many around us like those 2 lori & kohei
+
+I mean from deep inside they are good but outside they are always competing like hell , ripping apart each of themselves... And because of that they were growing 
+
+
+Just a random though while studying !! Don't bother
+23/10/22, 5:07 pm - SURAJ 🍁: i have not seen that completely
+23/10/22, 5:12 pm - 🍀 ADARSH: Moron
+23/10/22, 5:12 pm - SURAJ 🍁: 🤣 i will see uf you want ne 2 see
+23/10/22, 5:13 pm - SURAJ 🍁: i*
+23/10/22, 5:13 pm - SURAJ 🍁: me*
+23/10/22, 5:15 pm - 🍀 ADARSH: 😂 no bro , it's no big deal , just to simply tell 
+
+They both were friends who id always competing in everything , mocking & fighting each other 
+
+But they had good intentions inside , that's what I was trying to say
+23/10/22, 5:15 pm - 🍀 ADARSH: Is* line 3 error
+23/10/22, 5:16 pm - SURAJ 🍁: you are telling like compiler😂
+23/10/22, 5:16 pm - 🍀 ADARSH: Yuuuuup 
+Finishing the level 1 today
+23/10/22, 5:17 pm - SURAJ 🍁: ya we can compete,congrats for  🥳🥳 finishing level 1
+23/10/22, 5:17 pm - 🍀 ADARSH: Videos.length - 2
+23/10/22, 5:17 pm - SURAJ 🍁: heavy........
+23/10/22, 5:17 pm - 🍀 ADARSH: 🤣🤣
+23/10/22, 5:18 pm - 🍀 ADARSH: See ya later bro !! I must finish 
+
+Keep grinding , keep growing 
+Bye 💗
+23/10/22, 5:48 pm - SURAJ 🍁: oy
+24/10/22, 11:26 am - SURAJ 🍁: bhai matrix olag diagonally traverse madak barvato nangaaaaaaa🤯
+24/10/22, 11:31 am - 🍀 ADARSH: I am not wise but
+Is it by any chance I++ & j++
+24/10/22, 11:32 am - 🍀 ADARSH: I mean I+ -> this direction
+              J+ -> this direction
+24/10/22, 11:32 am - 🍀 ADARSH: Lol I don't think so , sry about that
+24/10/22, 11:34 am - SURAJ 🍁: bsdk sry yak kelati😂
+24/10/22, 11:34 am - SURAJ 🍁: i got it
+24/10/22, 11:34 am - SURAJ 🍁: <Media omitted>
+24/10/22, 11:35 am - 🍀 ADARSH: Yeah type errors whatever , who cares
+24/10/22, 11:35 am - 🍀 ADARSH: <Media omitted>
+24/10/22, 11:35 am - SURAJ 🍁: <Media omitted>
+24/10/22, 3:44 pm - 🍀 ADARSH: Bhai leetcode davrn mukli hadak bek hsm , ella method bhai avaru byare na adav , matt nav svant barkobek pa
+24/10/22, 3:47 pm - SURAJ 🍁: avru solution nodbyad,avru ni ond 500 problems bidsantle familiar aagateti
+24/10/22, 3:47 pm - SURAJ 🍁: <Media omitted>
+24/10/22, 3:48 pm - SURAJ 🍁: easy iddiddu hudkyadi bidsateni😂😂
+24/10/22, 3:48 pm - 🍀 ADARSH: No I am not seeing but , while solving correct answers are also wrong 
+
+Anyway building from scratch makes it good 💯😂
+24/10/22, 3:48 pm - 🍀 ADARSH: Yeah I have to do too
+24/10/22, 3:48 pm - SURAJ 🍁: na maadov maad ningu easy aagateti
+24/10/22, 3:49 pm - 🍀 ADARSH: <Media omitted>
+24/10/22, 3:50 pm - SURAJ 🍁: merge two sorted list tough aityole paila easy iddiddu bids array ameli strings du
+24/10/22, 3:50 pm - 🍀 ADARSH: Don't mind but
+
+I am trying to do in which I am a little strong , so that i can drive towards yours later
+
+I will solve those
+24/10/22, 3:50 pm - SURAJ 🍁: .
+24/10/22, 3:50 pm - 🍀 ADARSH: 😂😂😂😂 its easy af bro
+May be you've mistaken it for different problem though 🙄
+24/10/22, 3:51 pm - 🍀 ADARSH: No probs , I am on your words
+24/10/22, 3:52 pm - SURAJ 🍁: ha might be😂 o yes the tuf one was median of two sorted  arrays
+24/10/22, 3:52 pm - 🍀 ADARSH: Yes yesss
+I haven't even seen that 😁
+24/10/22, 3:52 pm - SURAJ 🍁: lets see who solves more probs a day
+24/10/22, 3:52 pm - SURAJ 🍁: 😁
+24/10/22, 3:52 pm - 🍀 ADARSH: Alright man , see ya
+
+Cause I take 2hrs for a prob
+As I mess things up
+24/10/22, 3:53 pm - 🍀 ADARSH: You are cruel..
+24/10/22, 3:53 pm - SURAJ 🍁: 😂😂🤣
+24/10/22, 3:53 pm - 🍀 ADARSH: & let's face cruelty tomorrow for sure
+24/10/22, 3:53 pm - 🍀 ADARSH: As I spent my day doing those bastard's assignments
+24/10/22, 3:58 pm - SURAJ 🍁: <Media omitted>
+24/10/22, 4:38 pm - 🍀 ADARSH: <Media omitted>
+24/10/22, 7:20 pm - SURAJ 🍁: https://music.youtube.com/watch?v=E9T78bT26sk&feature=share
+24/10/22, 11:44 pm - SURAJ 🍁: https://youtu.be/X34ZmkeZDos
+25/10/22, 6:18 am - 🍀 ADARSH: <Media omitted>
+25/10/22, 8:45 am - SURAJ 🍁: https://leetcode.com/problems/diagonal-traverse/description/
+25/10/22, 9:05 am - SURAJ 🍁: https://youtu.be/oCqkVZVPOe8
+
+🤣 watch this
+25/10/22, 12:21 pm - 🍀 ADARSH: <Media omitted>
+25/10/22, 12:25 pm - SURAJ 🍁: yeah its fine ,u r duing gr8
+25/10/22, 4:57 pm - SURAJ 🍁: <Media omitted>
+25/10/22, 5:01 pm - 🍀 ADARSH: You are damn epic 
+
+
+& the thing is they only select fools , who know how to charm their cobra , bastardsssss.......
+25/10/22, 5:05 pm - SURAJ 🍁: Accenture is selecting people who are potential candidates for blowjob in Accenture
+25/10/22, 5:10 pm - 🍀 ADARSH: 😂 ohh bro , I was reading seriously until potential candidates..
+& then there you are with a banggg 🤣
+25/10/22, 5:10 pm - SURAJ 🍁: 😂😂
+25/10/22, 7:09 pm - 🍀 ADARSH: Hey solve no.1662
+
+
+The amount of joy it comes after solving a problem completely on own is another level
+
+
+All credits to you !!
+Although the problem I solve are kiddish enough , but in the beginning I think I am doing at least a little good
+25/10/22, 7:09 pm - 🍀 ADARSH: Thanks man!!
+25/10/22, 7:10 pm - SURAJ 🍁: ok i will solve 1662 ,have to read fir exams
+25/10/22, 7:11 pm - 🍀 ADARSH: Ok , sure
+25/10/22, 10:29 pm - SURAJ 🍁: you do 345 its possible by you
+26/10/22, 11:12 am - SURAJ 🍁: any other qn u solved?
+26/10/22, 12:47 pm - 🍀 ADARSH: no bro , some relatives and stuff 
+Some habba & stuff
+& evening nali exam & stuff
+
+But I will try atleast 1 today somehow
+26/10/22, 12:47 pm - SURAJ 🍁: ha dint break the streak
+26/10/22, 12:48 pm - SURAJ 🍁: dont
+26/10/22, 12:48 pm - 🍀 ADARSH: Sure I won't
+26/10/22, 12:48 pm - SURAJ 🍁: till we get into faang 😂 streak should be there
+26/10/22, 12:50 pm - 🍀 ADARSH: The thing it's not gonna break even after we get in
+
+
+Cause initially I was doing it for job
+But now it includes fun too , I really enjoy doing those , 🥲even though i solved only a few easy probs 😂 lol
+26/10/22, 12:52 pm - SURAJ 🍁: yes in life, if we run behind love we will not get love,if we run behind money we will not get it thats how life works,so its better to enjoy the journey rather than aiming at something which we dont know afterwards satisfies us or not.
+26/10/22, 12:53 pm - 🍀 ADARSH: Agreed !!
+26/10/22, 12:54 pm - SURAJ 🍁: i want you also to come with me to banglore with me😂 aage ka baad me dekhenge
+26/10/22, 2:17 pm - 🍀 ADARSH: For what freaking purpose 😂!?
+26/10/22, 2:18 pm - SURAJ 🍁: mthr fukr, yav job hudadru banglore nlka hogbekla
+26/10/22, 2:18 pm - SURAJ 🍁: hidadru*
+26/10/22, 2:19 pm - 🍀 ADARSH: Ohh like that , yeah definitely I will 👍🏻👍🏻💯💯
+26/10/22, 2:19 pm - 🍀 ADARSH: Nowadays I doubt that you are practicing fast typing even on whatsapp too
+26/10/22, 2:20 pm - SURAJ 🍁: 😂🙌🏻
+26/10/22, 2:21 pm - 🍀 ADARSH: 🤣🤣 yeah keep doing whatever you want !! 
+That's how it works
+
+I was pretty busy today in habba stuff , so I will read till evening
+27/10/22, 10:16 pm - SURAJ 🍁: https://leetcode.com/problems/maximum-product-of-three-numbers/
+28/10/22, 12:49 am - SURAJ 🍁: https://youtu.be/B6CjoCEhk90
+28/10/22, 4:24 am - 🍀 ADARSH: I follow him , he is awesome 💯
+28/10/22, 6:29 pm - 🍀 ADARSH: Bhai wtf !! If you really want to pay so bad , then just pay actual amount 
+
+I doubt that I didn't even spent 60 on you
+28/10/22, 6:30 pm - 🍀 ADARSH: 😅
+28/10/22, 7:46 pm - 🍀 ADARSH: <Media omitted>
+30/10/22, 1:35 pm - 🍀 ADARSH: <Media omitted>
+31/10/22, 7:11 am - 🍀 ADARSH: <Media omitted>
+31/10/22, 11:07 am - SURAJ 🍁: select easy or medium in tag,and click on acceptance, then click on settings and turn on the show tags,and start solving
+31/10/22, 11:08 am - SURAJ 🍁: solve high acceptance problems first
+31/10/22, 11:08 am - 🍀 ADARSH: Ok
+31/10/22, 11:09 am - SURAJ 🍁: u r doing great🙌🏻 happy for u
+31/10/22, 11:14 am - 🍀 ADARSH: Thank you 💯🤍
+31/10/22, 6:24 pm - SURAJ 🍁: are you coming to college tomorrow?
+31/10/22, 7:07 pm - 🍀 ADARSH: Noo
+31/10/22, 7:07 pm - 🍀 ADARSH: Tomorrow is rajyotsav soo
+31/10/22, 9:10 pm - SURAJ 🍁: 👍🏻
+31/10/22, 9:10 pm - SURAJ 🍁: akash was doing ankering so
+01/11/22, 7:41 am - 🍀 ADARSH: Ok
+01/11/22, 9:47 am - SURAJ 🍁: leetcode is down
+01/11/22, 9:48 am - 🍀 ADARSH: I was solving and just
+01/11/22, 9:48 am - 🍀 ADARSH: <Media omitted>
+01/11/22, 9:48 am - SURAJ 🍁: same here
+01/11/22, 9:49 am - 🍀 ADARSH: Bro i am just started solving problems a week ago , I can't solve a lot of them
+
+
+But this is way more interesting
+01/11/22, 9:51 am - SURAJ 🍁: still its not coming
+01/11/22, 9:52 am - 🍀 ADARSH: I thought I have a bad connection
+
+
+No problem , I will go swim 😁
+01/11/22, 9:52 am - SURAJ 🍁: i listen to this in background
+01/11/22, 9:52 am - SURAJ 🍁: https://youtu.be/vLEek3I3wac
+01/11/22, 9:53 am - SURAJ 🍁: its open i guess(leetcode)
+01/11/22, 9:54 am - 🍀 ADARSH: Brings back memories , when I was in diploma 🤣 & in depression
+01/11/22, 9:54 am - 🍀 ADARSH: Lets see
+01/11/22, 9:55 am - 🍀 ADARSH: Bhai not able to open problems
+01/11/22, 3:41 pm - 🍀 ADARSH: <Media omitted>
+01/11/22, 3:48 pm - 🍀 ADARSH: Lol ! I am such a fool 
+Forgot to increment 😁
+01/11/22, 3:59 pm - 🍀 ADARSH: Anyway with this method it fails at case 88 , where these guys give you a linked list of 
+100000 size
+
+So I used arraylist , now it beats 95%
+01/11/22, 8:47 pm - SURAJ 🍁: 😂 i saw your messages now, 🙌🏻 i was also solving probs
+01/11/22, 9:41 pm - SURAJ 🍁: <Media omitted>
+02/11/22, 6:49 am - 🍀 ADARSH: Awesome
+02/11/22, 6:49 am - 🍀 ADARSH: <Media omitted>
+02/11/22, 6:49 am - 🍀 ADARSH: ..
+02/11/22, 1:43 pm - SURAJ 🍁: bhai i m in home😅
+02/11/22, 2:09 pm - 🍀 ADARSH: 😐
+03/11/22, 5:27 am - 🍀 ADARSH: Bhai about kth largest element in array 
+If I use sort it beats more than 80 % in both time & space.
+
+If I use heap than it rarely beats 50% 
+
+But everyone is talking like heap is the best approach , what's all thing about !?
+03/11/22, 5:38 am - 🍀 ADARSH: <Media omitted>
+03/11/22, 7:57 am - 🍀 ADARSH: <Media omitted>
+03/11/22, 3:46 pm - 🍀 ADARSH: <Media omitted>
+05/11/22, 3:47 pm - SURAJ 🍁: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/discuss/2780813/Fastest-solution-(100)-different-method-no-formulae
+06/11/22, 8:16 am - 🍀 ADARSH: Congratulations for minfi broo 🥳💯👍🏻🤍💥
+08/11/22, 10:49 am - 🍀 ADARSH: <Media omitted>
+08/11/22, 6:29 pm - SURAJ 🍁: what is this bhai?😅
+08/11/22, 9:18 pm - 🍀 ADARSH: From a yt video 
+For iman gadzi his friend sent this to him 
+
+
+So I felt its worth sending you the same message
+09/11/22, 6:14 pm - 🍀 ADARSH: Are you coming tomorrow to clg !?
+09/11/22, 6:15 pm - 🍀 ADARSH: I was coming so I asked !!?
+09/11/22, 10:47 pm - SURAJ 🍁: yes
+11/11/22, 12:03 pm - 🍀 ADARSH: https://youtu.be/LL98HP2hWhs
+
+Both of them in one vid 
+
+For problems check their playlist
+11/11/22, 12:39 pm - 🍀 ADARSH: https://youtu.be/kCLFSVft1W0
+
+
+
+Watch it when u want to take a rest ,, this guy is the one I was talking about with iman gadzhi
+
+
+A young millionaire who wants to build dream house like you
+13/11/22, 7:00 pm - 🍀 ADARSH: <Media omitted>
+21/11/22, 8:29 am - SURAJ 🍁: <Media omitted>
+21/11/22, 3:38 pm - SURAJ 🍁: download bereal i m on it
+21/11/22, 3:41 pm - 🍀 ADARSH: Sure!! See you there
+21/11/22, 7:44 pm - 🍀 ADARSH: Sent the request
+21/11/22, 8:01 pm - SURAJ 🍁: accepted
+21/11/22, 11:22 pm - SURAJ 🍁: iman gadzhi is playing on his viewers
+22/11/22, 3:51 am - 🍀 ADARSH: Just got to know in his last video 🥲
+Never thought he comes to that point after all that he did...
+22/11/22, 8:15 am - SURAJ 🍁: i knew that he was planning for something
+23/11/22, 2:48 pm - 🍀 ADARSH: <Media omitted>
+23/11/22, 2:56 pm - 🍀 ADARSH: <Media omitted>
+23/11/22, 4:11 pm - SURAJ 🍁: i also when first started with web dev, did the same thing😂 i tried to have insta blue tick with > million followers
+23/11/22, 4:24 pm - 🍀 ADARSH: 😂😂😂😂💯🔥🔥
+23/11/22, 11:38 pm - SURAJ 🍁: bhai i think you are emotionally mature
+24/11/22, 6:42 am - 🍀 ADARSH: Let's move on forward  together!!
+24/11/22, 9:50 am - SURAJ 🍁: exam da odati?
+24/11/22, 12:39 pm - 🍀 ADARSH: Well !! They released kantara 
+Soo I watched it 😁
+, now I will code , tomorrow I will read
+24/11/22, 2:05 pm - SURAJ 🍁: if you were in ec branch...we would have read together...
+
+😁👍🏻
+24/11/22, 5:08 pm - 🍀 ADARSH: Bhai if u have time or free , check out 141 leetcode and if u understand that please explain problem statement to me
+24/11/22, 6:02 pm - SURAJ 🍁: ok wait
+24/11/22, 6:06 pm - SURAJ 🍁: yes i understood it,if you want ...u call call me ,i will explain the meaning of question to you
+24/11/22, 6:06 pm - SURAJ 🍁: can*
+24/11/22, 9:00 pm - 🍀 ADARSH: <Media omitted>
+24/11/22, 9:00 pm - 🍀 ADARSH: Hey bro
+I sometimes talk too much in a flow without complete consciousness
+
+
+Soo I don't know , if I said something wrong don't get it on heart , forget my words
+24/11/22, 9:01 pm - 🍀 ADARSH: & some f*ed problem was there , some random emojis came
+24/11/22, 10:10 pm - SURAJ 🍁: 😂😂😂😂😂😂
+24/11/22, 10:13 pm - SURAJ 🍁: nothing to worry...
+maybe i went to some fuckin negetive place...i think thats the reason for my problem..😂
+25/11/22, 3:46 am - 🍀 ADARSH: LOL!!🤣
+25/11/22, 8:27 am - 🍀 ADARSH: Hope your day goes awesome !!
+
+
+I jumped from more than 10 ft in blue water this morning , 
+Cooked myself a panagi kichdi  ...
+
+Just a little different than usual 😁
+25/11/22, 10:46 am - SURAJ 🍁: seems wonderful experience, i also want to learn swimming 😂
+25/11/22, 11:01 am - 🍀 ADARSH: Finish IA  , get to Akya and go to goaways pool , try to learn in 4 ft..
+😁Leave that , I am starting to study IA now 
+
+Happy reading 💯
+25/11/22, 2:00 pm - 🍀 ADARSH: Brooooo pllsss plsss tell me how to get a job quickly or how to earn 2 lakh monkey
+
+I am crying bro , they launched a new himalayan color , I want to buy it 😭😭😭😭
+25/11/22, 2:00 pm - 🍀 ADARSH: ...
+25/11/22, 2:52 pm - SURAJ 🍁: 😂 literally i dont know about himalayan bikes ...so...😂 its better i dont make any stupid comments and hurt ur emotions...
+
+you have to contact tate if you want 2 lack on the spot😂
+25/11/22, 3:12 pm - 🍀 ADARSH: 😁😁😑😑screw it. I am going to study hard , so that i can get it , only way exists
+30/11/22, 9:28 am - SURAJ 🍁: https://creator.nightcafe.studio
+30/11/22, 9:39 am - SURAJ 🍁: null
+30/11/22, 8:34 pm - 🍀 ADARSH: Bhai for some f7xked up reason I am stuck , tf should I do !! 
+I need some guidance and whatever and shit
+30/11/22, 11:20 pm - SURAJ 🍁: i am fully motivated once again.......🏀😂🏀😂⛹️⛹️🥳🥳
+
+tell me whats the problem... i will f** it 100% 😂
+30/11/22, 11:21 pm - SURAJ 🍁: maybe u will see this msg at morning 4 am
+01/12/22, 3:06 am - 🍀 ADARSH: Yesss 🤣
+01/12/22, 3:07 am - 🍀 ADARSH: Screw problems now , lets go
+01/12/22, 1:19 pm - SURAJ 🍁: https://youtube.com/shorts/TuWHyEKByIY?feature=share
+01/12/22, 1:29 pm - 🍀 ADARSH: Mootherfuuuker what are doing you !?
+01/12/22, 5:36 pm - SURAJ 🍁: i slept 😂 i woke up now
+01/12/22, 11:10 pm - SURAJ 🍁: https://youtu.be/7jZdXWGKc7M
+01/12/22, 11:36 pm - SURAJ 🍁: https://youtu.be/5eW6Eagr9XA
+
+about stocks , he has explained what i thaught
+02/12/22, 6:38 am - 🍀 ADARSH: Hey bro , I woke up at 3 and solved 2 probs and also react  started
+02/12/22, 6:43 am - 🍀 ADARSH: Today I will read interview questions , so that i can be ready if a local company comes online or offline 
+
+I really need help with my first job broo ...tell me if you get to know , whenever eligible jobs are there
+02/12/22, 10:33 am - SURAJ 🍁: call mr when finish ur work
+02/12/22, 5:38 pm - SURAJ 🍁: maybe i stressed you with some sayings which i think are not necessary to be applied now ...
+you do whatever you like.. you can do interview questions... i am no one give you advice 😂 you are doing great.. just do whatever you find helpfull, dont let my fuckin talks bother your progress
+02/12/22, 5:52 pm - 🍀 ADARSH: Dont get me wrong, but I never get affected by anyone's thought except myself , I just pick & grab what suits the situation the most from anyone's advice 
+
+
+I know what you were trying to tell through those words , I picked them , that's all that matters
+
+You are doing a lot for me bro , trust me , you are the best 🤍
+03/12/22, 8:08 am - SURAJ 🍁: https://youtu.be/pvgfucVF5cU
+
+This man is copy of me
+03/12/22, 9:07 pm - 🍀 ADARSH: Bhai how to copy folders from github
+
+I needed some extra files from this project in github
+
+But there is no option , what should we do
+03/12/22, 9:09 pm - SURAJ 🍁: there should be option telling download zip,do that
+04/12/22, 3:16 am - 🍀 ADARSH: I will bring laptop tomorrow if you are coming.. Also solving leetcode 😁
+04/12/22, 3:39 am - 🍀 ADARSH: Hey broo there are a lot of awesome projects on a lot of channels , fully modern , I mean at extreme level modern
+
+
+Just will meet in clg & get them copied , it helps a lot to get my first job and boosts your resume too
+04/12/22, 6:23 am - 🍀 ADARSH: Screw shit ,  I am going to do anything that takes me to the goal , because I must
+I found a extension and shit here , will see what happens
+04/12/22, 6:23 am - 🍀 ADARSH: ..
+04/12/22, 7:53 am - SURAJ 🍁: ok i will also bring my laptop then , but i m not going to do any projects now only ,because my focus is on dsa and i am studying for final exams also, so there should be some space for rest also, at max i can give my time to 2 things ,
+i can watch and take idea and help in some little things inbetween
+04/12/22, 10:50 am - 🍀 ADARSH: Yeah sure
+04/12/22, 10:51 am - 🍀 ADARSH: I am solving dsa for about 4 hrs , rest is spent on finding and building projects so that I can put something in my resume
+04/12/22, 10:51 am - 🍀 ADARSH: .
+04/12/22, 4:15 pm - 🍀 ADARSH: Since yesterday 3 am slept only for 6 hrs , after messing up more than 7 times deleting the handwritten code each time , struggling with no guidance to install multiple things , after not giving up , staying hard af
+
+
+Finally I fucking built that fucking frontend website brooo....
+
+
+I am nuts happy 🔥💥💥
+04/12/22, 6:10 pm - SURAJ 🍁: for this i can say ,congrats😁
+i am planning to go to eat something with akash 😂
+04/12/22, 7:05 pm - 🍀 ADARSH: Yeah !! Sure
+05/12/22, 9:29 pm - SURAJ 🍁: <Media omitted>
+05/12/22, 9:30 pm - SURAJ 🍁: on your bday i reached 100 streak 🥳
+05/12/22, 9:30 pm - SURAJ 🍁: btw wish you happy birthnight
+06/12/22, 4:46 am - 🍀 ADARSH: Awwweeesooomeee ⚡🙌🏻💯
+07/12/22, 11:00 am - 🍀 ADARSH: Hey broo it might seem like i'm complaining but ,
+After all that hardwork now my body is taking it's toll
+
+I am in rock bottom physically & mentally , I know it will pass , but I can't move my finger , cannot even hold a tea cup right now 
+
+Bye.
+08/12/22, 9:47 am - SURAJ 🍁: https://youtu.be/RXKBQuGSLlk
+08/12/22, 9:49 am - SURAJ 🍁: https://youtu.be/mzrFjSw3GqI
+08/12/22, 10:52 am - SURAJ 🍁: https://youtu.be/0YnDKAJCzTc
+
+to make your rock heart and soul somewhat soft😁
+you will get some peace if you listen
+08/12/22, 10:58 am - SURAJ 🍁: and i know you will get job easily 😁 just you are giving too much stress to yourself by thinking too much , good things take time 👍🏻🕺
+08/12/22, 11:04 am - 🍀 ADARSH: Sure mann !! & I will never forget your contribution and support throughout the process 🤍 ;) :)
+08/12/22, 11:11 am - 🍀 ADARSH: Don't let american youtubers watch this video
+
+They will suicide
+08/12/22, 11:12 am - SURAJ 🍁: 😂😂😂😂😂😂😂
+09/12/22, 9:21 am - 🍀 ADARSH: https://youtu.be/5bId3N7QZec
+09/12/22, 3:15 pm - SURAJ 🍁: bhai nand cancel maadso en shata barull nang
+09/12/22, 3:15 pm - SURAJ 🍁: byaredovn hakko
+09/12/22, 3:45 pm - SURAJ 🍁: bhai na nodinyo ,bhal kett adav magna
+09/12/22, 3:49 pm - 🍀 ADARSH: Broo let me tell you something even if it might hurt you 😁
+
+Be the man someone can trust...
+Bhai nangu enu barodilla 
+
+
+Ad bid hatr , ning agodilla anta idra illa ant and bido , your decisions should not affect someone man..
+09/12/22, 4:21 pm - SURAJ 🍁: na kodudka en sense illo, nang enu gort ill kannada da adka
+09/12/22, 4:24 pm - SURAJ 🍁: nang kannada da 1% nu gortill, ni yarnare baredovrn karko, na nodini questions av en shanta nenap ulivalu
+09/12/22, 4:26 pm - SURAJ 🍁: eeg already 60 pay maadidi en?
+09/12/22, 4:27 pm - SURAJ 🍁: cancel maadak aaglill andra kundronu adkenilla, but nang en answer barudill nod atta
+09/12/22, 4:41 pm - SURAJ 🍁: loudi magne..barteni togo na sulla teli kediskobyad
+09/12/22, 4:46 pm - 🍀 ADARSH: 🤣Bro I don't want to forcefully join you
+
+
+Soo chill your good times
+09/12/22, 4:59 pm - SURAJ 🍁: ill na baypat hodyatrni eeg shista
+09/12/22, 5:00 pm - SURAJ 🍁: no itihaas du questions maadko
+09/12/22, 5:00 pm - SURAJ 🍁: na sahitya maadkolateni
+09/12/22, 5:00 pm - SURAJ 🍁: akash ga chalanachitra maadko ann
+09/12/22, 5:01 pm - SURAJ 🍁: matt kannada baror yaarre adar en nod innovbra
+09/12/22, 5:02 pm - 🍀 ADARSH: Abe 🤍de ni edk madati avn ig , do coding bro , will see them tomorrow there only
+
+
+Trust me , you can come like a fool tmrw still no problem
+09/12/22, 5:02 pm - 🍀 ADARSH: Bhai u leave all the worries in the world , do code now 
+
+Just come tomorrow blank , leave rest to me
+09/12/22, 5:08 pm - SURAJ 🍁: <Media omitted>
+09/12/22, 5:08 pm - SURAJ 🍁: bhai ge nodo gich aiti
+09/12/22, 5:08 pm - SURAJ 🍁: game
+09/12/22, 5:32 pm - 🍀 ADARSH: Is that really a game or what !?
+09/12/22, 6:51 pm - SURAJ 🍁: ha game
+09/12/22, 6:52 pm - SURAJ 🍁: tomorrow i will bring my pc ,you can tryout
+09/12/22, 7:09 pm - 🍀 ADARSH: Due to catching bus & lab & shit
+
+I haven't ate anything since yesterday night , now I came home & eating the meal
+09/12/22, 7:48 pm - 🍀 ADARSH: Bhai sahitya main topic agi kelan illa , study prachalita ghatanegalu
+09/12/22, 7:48 pm - 🍀 ADARSH: Current affairs kannada
+09/12/22, 7:48 pm - 🍀 ADARSH: ..
+09/12/22, 11:51 pm - SURAJ 🍁: iskaa maaaka dost
+09/12/22, 11:51 pm - SURAJ 🍁: na innu mata sahitya na odinyo
+09/12/22, 11:58 pm - SURAJ 🍁: munjane odkoteni togo current affairs
+10/12/22, 4:09 am - 🍀 ADARSH: Ad en waste agilla tugo , adnu keltar written test olag
+10/12/22, 8:34 pm - 🍀 ADARSH: https://youtu.be/2XyqCRARqmk
+
+Hey brother , I was actually not wanting to send this to you but , the reason I am sending this to you is 
+
+
+It might clear few or a lot of ur unanswered & extremely curious questions ,
+
+And it might bring a lot much light & understanding that makes a person's life awesome
+
+You will be amazed if u watch it full
+10/12/22, 9:27 pm - SURAJ 🍁: i am going to watch it now only,but one thing i want to share with you.. i have won many competitions but really if i tell i have done nothing, so these all wins are like neutral for me, i have decided that if i take part in any of the competitions in future i will take part if i am suitable or (its my territory), 
+if i tell you.. todays win would have bought lot of satisfaction to you and shashank, i dont know about akash janagouda, but truly speaking i didn't felt happy and also i didn't felt sad ,i was neutral, 
+i am really really happy that it was your day🙌🏻😁 i enjoyed you answering the questions,i wanted you to stand up lot of times..
+and i am really jealous about Akash's whole job, he did everything with pin-to-pin perfection ...i am very grateful that these type of epic entities are my friends(if were enemies...i could have died of hottekicch)
+....but this time i am not wanting to change myself by watching others... because everyone everything has its own beauty
+i am really glad that today i took part with you in competition,
+now i will watch the video ...tata😂
+10/12/22, 9:51 pm - 🍀 ADARSH: If you thought i felt happier by winning , that might be little off the path . I don't care if I win or loose , screw that !! 🤣
+
+I just wanted to gather friends and go to war & I did regardless of the result 
+
+Akash called me & i told him openly that he did the best & I love him for his job , love to see everyone growing without success based on numbers (like everyone does) to me life is all about living the hell out of every moment !! & working ass off , I am proud I am doing that 
+
+
+Just soo happy to see you being happy and having your own opinion & living ur own life
+10/12/22, 9:53 pm - 🍀 ADARSH: As I already told yesterday screw win or loose , just chill , calm like water  , free like air , ambitious as fire , clear as sky , caring as mother earth 
+
+
+Enjoy the beautiful life , be grateful & give back 💣💣
+10/12/22, 9:53 pm - SURAJ 🍁: i am seeing that video its very interesting
+10/12/22, 9:54 pm - 🍀 ADARSH: Ok see u later than , don't forget to read above msgs later , I meant it 🤍
+10/12/22, 9:54 pm - SURAJ 🍁: wooooooooooah nature everywhere...btw epic lines
+10/12/22, 9:55 pm - SURAJ 🍁: 😂 i am reading 🤍
+10/12/22, 9:56 pm - SURAJ 🍁: ok i will continue that video..
+12/12/22, 7:41 pm - SURAJ 🍁: bhai esht aadu ninnu dsa qns?
+12/12/22, 9:00 pm - 🍀 ADARSH: 160 . I will speak tomorrow wiyh
+12/12/22, 9:00 pm - 🍀 ADARSH: With you *
+12/12/22, 10:05 pm - SURAJ 🍁: okay
+12/12/22, 10:06 pm - SURAJ 🍁: *Surya Software Systems Freshers Recruitment | Software Development Engineer @ Bangalore*
+
+*Qualification:* BE/BTech (All branches)
+
+*Batch:* 2022
+
+*Salary:* Rs. 6,00,000/- per annum
+
+*Drive Location:* Online
+
+*Last Date To Apply:* 21st December 2022
+
+*Drive Date:* 26th December 20222
+
+*Apply Link:* https://bit.ly/3L6zdy3 
+
+*2022 Batch Jobs:* https://bit.ly/3sd2fmm
+13/12/22, 5:41 am - 🍀 ADARSH: Its for 2022 batch , which is already passed out 
+
+We are 2023 batch
+13/12/22, 5:43 am - 🍀 ADARSH: And about DSA , its difficult for me to randomly solve problem , my mind is such that it needs a structure to work on 
+
+
+Soo I am going to follow striver's SDE sheet , the thing is I just solved a matrix problem
+
+I kept the goal of 3 problems a day with consistency
+13/12/22, 5:43 am - 🍀 ADARSH: ..
+13/12/22, 5:50 am - 🍀 ADARSH: And another thing is I found that we can apply to startups in other countries via linkedIn 
+
+They don't ask for DSA at all , but they will screw your dev 
+
+As they are startups , they will directly love to assign work but if I only know interview questions i will be fucked  a s soon as I get a jobs..
+
+They don't even care you have a degree , but they want someone who jumps to work directly
+13/12/22, 5:50 am - 🍀 ADARSH: Read all msgs , when u have time
+13/12/22, 8:03 am - SURAJ 🍁: okay, do whatever you find needful and beneficial, its good if you first only join startups in foreign, if you enter into foreign job..i will also do dev and try the same process as you
+13/12/22, 8:04 am - SURAJ 🍁: and about dsa ,if you feel stuck somewhere you can ask me to clear your doubts
+13/12/22, 8:06 am - SURAJ 🍁: and about strivers...
+strivers problems are mostly in gfg ,they are not in leetcode alone ..you have to switch through platforms if you wanna follow striver
+13/12/22, 8:06 am - 🍀 ADARSH: Yeah sure , the thing that was lacking for me to do dsa was a structure , now I am back on track 💯
+13/12/22, 8:07 am - 🍀 ADARSH: No in his sheet almost all of them are on leetcode , he has direct link attached to each problem
+
+I will send you on telegram
+13/12/22, 8:07 am - SURAJ 🍁: yes.. without structure...for the people who study mannerly..it becomes very hard
+13/12/22, 8:08 am - 🍀 ADARSH: & about startups , I observed that they dont have any tests , all they do is a interview question round , a practical round where they tell you to build some basic website using those html tags , or some react basic code 
+Then an hr
+13/12/22, 8:08 am - SURAJ 🍁: there is no problem
+i have one list ,if you want i will send you that lost also you can checkout
+13/12/22, 8:08 am - 🍀 ADARSH: Sure I love it 💯
+13/12/22, 8:09 am - SURAJ 🍁: yeah, i have seen some interviews
+13/12/22, 8:09 am - SURAJ 🍁: are u cmng 2 clg today
+13/12/22, 8:09 am - 🍀 ADARSH: 🤣  lol !! A bee stung me in the face
+13/12/22, 8:10 am - 🍀 ADARSH: I can barely look straight
+13/12/22, 8:10 am - SURAJ 🍁: are you fine?..
+13/12/22, 8:10 am - 🍀 ADARSH: I look like a big uncle
+13/12/22, 8:10 am - 🍀 ADARSH: Yeah conscious enough 😂
+13/12/22, 8:10 am - SURAJ 🍁: 😂
+13/12/22, 8:10 am - SURAJ 🍁: 😂
+13/12/22, 8:11 am - SURAJ 🍁: i watched kantara and seeta raamam ,loved those 🙌🏻😂
+13/12/22, 8:11 am - 🍀 ADARSH: Hey bro in that sheet I sent link 2 directly take u to leetcode problem
+13/12/22, 8:12 am - 🍀 ADARSH: Really awesome ⚡🙌🏻
+
+Yesterday I spent all day studying about , dev jobs for fresher in foreign 
+& trust me I  clearly got to know how 
+
+Just need to work on those skills & intrw qns
+13/12/22, 9:53 am - 🍀 ADARSH: https://chat.whatsapp.com/Gy8G0b6kFpQLwT2hsxccuP
+14/12/22, 12:52 pm - 🍀 ADARSH: Nobody in home , so I cooked for myself
+14/12/22, 12:52 pm - 🍀 ADARSH: <Media omitted>
+14/12/22, 1:05 pm - SURAJ 🍁: oh bete
+16/12/22, 8:13 pm - 🍀 ADARSH: Hello broo.. There was some bus problem from govt.. 
+
+So I reached home a hour ago & completely exhausted 
+
+Then I have a exam tmrw morning 
+
+Soo I will call tmrw for sure
+16/12/22, 8:13 pm - 🍀 ADARSH: I hope you understand 🙌🏻
+16/12/22, 8:13 pm - 🍀 ADARSH: ..
+16/12/22, 8:24 pm - SURAJ 🍁: ok take rest and prepare well then..
+17/12/22, 9:54 pm - 🍀 ADARSH: So we'veet in the past life too
+17/12/22, 10:09 pm - SURAJ 🍁: hm 💯
+20/12/22, 7:52 am - 🍀 ADARSH: I am coming to college
+20/12/22, 7:52 am - 🍀 ADARSH: Noe
+20/12/22, 7:52 am - 🍀 ADARSH: Now*
+20/12/22, 8:01 am - SURAJ 🍁: i am also coming
+20/12/22, 8:02 am - 🍀 ADARSH: Awesome 🪶
+20/12/22, 8:23 am - 🍀 ADARSH: If come college to you , canteen come
+20/12/22, 9:38 am - SURAJ 🍁: i cum ok kanT in
+20/12/22, 9:39 am - 🍀 ADARSH: Soo early
+20/12/22, 9:39 am - 🍀 ADARSH: Come library baju , if u r not busy
+22/12/22, 11:38 am - SURAJ 🍁: <Media omitted>
+22/12/22, 11:38 am - SURAJ 🍁: Please check the 👆🏻attached JD and details as below from Leadsquared company. 
+
+Complete registrations on 23/12/2022 10 am. 
+
+
+Registration: https://forms.gle/ZyZBDDr3dVBfXbP48
+
+ 
+Greetings from LeadSquared!
+ 
+As discussed, we would like to conduct a workshop for Sales skills followed by a placement drive at your esteemed college.
+Please find the attached job description. Kindly float these among the students and let me know when(Preferrably asap) we can conduct the workshop and virtual placement drive at your campus.
+ 
+Role: Sales Development Representative (SDR)  - Intern
+
+Stipend: 20,000 INR/month during the internship (6 months)
+
+Overall package post Full-time employment confirmation: 
+
+6 LPA (5 LPA Fixed and 1 LPA Variable) for BTech, BE
+
+5.5 LPA (4.5 LPA Fixed and 1 LPA Variable) for Non-BE/BTech students
+
+Experience & Expectations: Good sales acumen with extraordinary communication skills
+
+Job Location: Bangalore/Noida/Mumbai/Kolkata
+
+Joining: January 2023
+
+Please note that the conversion to Full time role depends on the performance during the internship duration.
+In case of any clarification please feel to reach out to me.
+
+Website Link: Leadsquared.com
+Video Link: Journey from Startup to Unicorn
+22/12/22, 2:30 pm - SURAJ 🍁: msg me after u get free
+22/12/22, 2:30 pm - 🍀 ADARSH: Sure  I will , may be after an hour
+22/12/22, 8:13 pm - 🍀 ADARSH: Hey bro forgot to tell in between , I reached home now !
+22/12/22, 8:13 pm - 🍀 ADARSH: 😁
+22/12/22, 8:14 pm - 🍀 ADARSH: Thank you for the food ,
+I enjoyed it a lot  although I hadn't contributed anything to your placement 😁🥳
+22/12/22, 8:47 pm - SURAJ 🍁: i also forgot to ask you😅
+22/12/22, 8:47 pm - SURAJ 🍁: 😇you have contributed lot
+22/12/22, 8:54 pm - 🍀 ADARSH: Have a good night 🍀
+22/12/22, 9:11 pm - SURAJ 🍁: good night brother 🌕
+24/12/22, 10:01 am - SURAJ 🍁: Virtual On campus Drive 2023
+
+Name of the company: Recruit CRM
+
+Eligibility:
+ B-Tech 2023
+All branches
+
+Role: Trainee Software Engineer
+
+Job location : Work from home
+
+Package: 
+During 6 months Internship stipend : INR 15,000 per month
+After successful completion of the internship the intern will be absorbed on the payroll of the
+Company with a CTC of INR 7 LPA
+
+Selection Process (Online/Virtual):
+1. Test 1 (Online MCQ based)
+2. Marksheet Verification (Minimum 75 marks in Maths in 10th & 12th)
+3. Test 2 (Online Coding based)
+4. Technical Interview
+5. Final Interview with the Founder
+
+To apply: https://recruitcrm.io/apply/16609050036580015558lRC
+24/12/22, 10:51 am - 🍀 ADARSH: thank you brrooo applied for it , btw for the time being I am more worried about IA and finals
+25/12/22, 8:55 am - SURAJ 🍁: <Media omitted>
+25/12/22, 9:34 am - 🍀 ADARSH: LOL !! 😂😂😂 high on christmas or what !? 🤣
+25/12/22, 10:19 am - SURAJ 🍁: 😂😂
+26/12/22, 7:13 am - SURAJ 🍁: Answer to How difficult is it to switch from TCS to product based companies like Amazon, Oracle after 2 years of experience in TCS? by Vidhya Sagar https://www.quora.com/How-difficult-is-it-to-switch-from-TCS-to-product-based-companies-like-Amazon-Oracle-after-2-years-of-experience-in-TCS/answer/Vidhya-Sagar-48?ch=15&oid=230147759&share=e9fcf705&srid=nPhOY&target_type=answer
+26/12/22, 8:01 am - 🍀 ADARSH: Wise words ! 💯💯
+26/12/22, 8:02 am - 🍀 ADARSH: Regarding it I will tell my plan when we meet
+26/12/22, 8:02 am - 🍀 ADARSH: ..
+26/12/22, 8:36 am - SURAJ 🍁: ya 👍🏻😁
+27/12/22, 4:35 am - 🍀 ADARSH: Hey bro
+In IA I am getting easily distracted by my classmates 
+
+After 1st exam , is there any place where i can just shut up and study for straight 3.5 hrs 
+If yes i'll join
+28/12/22, 11:45 pm - SURAJ 🍁: You deleted this message
+29/12/22, 8:49 am - 🍀 ADARSH: R U COMING
+29/12/22, 12:07 pm - SURAJ 🍁: i dont from what phase you are going through,as its been while we talked for hours,but i hope that you are calmly conquering the hurdles.If you want to share anything dont think that you will be disturbing me, i love to hear whatever you will tell anywhere anytime.
+29/12/22, 12:11 pm - 🍀 ADARSH: I really appreciate your understanding man..!!
+
+Gone through a weird phase ,which i think was came to test again & was messing up real weird this time 
+
+Will speak when u are free and comfortable 
+
+No worries !! Just growth through crazy tough times !lol
+
+
+Thanks for being there ! That matters and supports ton ! 🤍
+29/12/22, 12:14 pm - SURAJ 🍁: you can call me or we can talk when we meet, as you wish
+29/12/22, 12:18 pm - 🍀 ADARSH: Yeah ! Will speak tomorrow in clg 
+But there is nothing to worry !
+
+Rock your work ! Have good times 💯
+Bye
+29/12/22, 5:41 pm - SURAJ 🍁: tomorrow i have to go to post office for passprt verification
+29/12/22, 6:55 pm - 🍀 ADARSH: Ok sure go with that
+29/12/22, 6:55 pm - 🍀 ADARSH: Will meet some other time
+29/12/22, 6:55 pm - 🍀 ADARSH: ..
+29/12/22, 7:19 pm - SURAJ 🍁: ok
+29/12/22, 10:01 pm - SURAJ 🍁: https://www.geeksforgeeks.org/geeksforgeeks-jobathon/
+30/12/22, 10:09 am - SURAJ 🍁: papers togobyad ,na togondeni
+30/12/22, 10:15 am - 🍀 ADARSH: Alright
+30/12/22, 8:02 pm - SURAJ 🍁: are you coming to college tomorrow
+30/12/22, 9:19 pm - 🍀 ADARSH: No actually , I finished all my work today 
+And haven't slept well for a week 
+Now I am going to 😁
+30/12/22, 9:30 pm - SURAJ 🍁: ok then ,have a peaceful sleep 🌕
+31/12/22, 2:49 pm - 🍀 ADARSH: If u are not in clg I will call evening
+31/12/22, 2:54 pm - SURAJ 🍁: ok
+31/12/22, 3:40 pm - SURAJ 🍁: 5.30
+31/12/22, 8:51 pm - 🍀 ADARSH: Namaste to wherever you are there bro 
+Can I call tommorrow to get to know about how to apply for passport and rest procedure 
+
+
+Soo that I can apply for one 😁
+31/12/22, 10:49 pm - SURAJ 🍁: yes its easy
+31/12/22, 10:54 pm - SURAJ 🍁: <Media omitted>
+01/01/23, 6:13 am - 🍀 ADARSH: Woohoow !
+01/01/23, 2:50 pm - SURAJ 🍁: happy new year 🍁
+01/01/23, 3:21 pm - 🍀 ADARSH: Will live every moment as much as we can for the new year 🍀
+01/01/23, 6:13 pm - SURAJ 🍁: <Media omitted>
+01/01/23, 6:23 pm - 🍀 ADARSH: I got 50 days one
+01/01/23, 6:23 pm - 🍀 ADARSH: 😁
+01/01/23, 6:31 pm - SURAJ 🍁: woooh 🥳
+01/01/23, 7:40 pm - 🍀 ADARSH: Trust me man , I broke the streak for the reasons i don't want to give anymore 
+
+I am going to continue at least 1 problem a day
+01/01/23, 7:55 pm - SURAJ 🍁: counting on you😁
+02/01/23, 3:53 pm - 🍀 ADARSH: Hey bro ! The job group which I sent you , there are a lot of opportunities
+
+
+But they require resume, application & apti & all , for which we don't have time in this month 
+
+After exams I will start applying for those , I hope I get one at the end of 8th sem
+02/01/23, 4:02 pm - SURAJ 🍁: yes same here ,i m also planning to apply those all
+02/01/23, 6:27 pm - 🍀 ADARSH: 6& 7 my lab examuus
+02/01/23, 9:22 pm - SURAJ 🍁: apply for that gfg jobathon
+02/01/23, 9:23 pm - SURAJ 🍁: tomorrow is last date
+02/01/23, 10:33 pm - SURAJ 🍁: <Media omitted>
+02/01/23, 10:33 pm - SURAJ 🍁: bro my new resume
+03/01/23, 6:13 am - 🍀 ADARSH: Well it looks clean and well put 
+
+I might be wrong but , if possible try to find some alternative keyword for that future word over the top
+( only my guess , I might be 100 % wrong as well )
+03/01/23, 6:13 am - 🍀 ADARSH: Rest all it's more than awesome for its simplicity & cleanness 
+
+And I have no words for the content 💯
+03/01/23, 7:49 am - SURAJ 🍁: i will see if there is any other word i can use there,thanks for tip, Good morning 🌸
+03/01/23, 8:19 am - 🍀 ADARSH: Come college me today 😁
+05/01/23, 1:55 pm - SURAJ 🍁: <Media omitted>
+05/01/23, 2:26 pm - 🍀 ADARSH: There might be a problem with your net 
+Its right on mine
+06/01/23, 11:40 am - SURAJ 🍁: i m in clg ,if u r here then call me ,i m going home at 2.30
+06/01/23, 12:56 pm - 🍀 ADARSH: Just came out of exam 
+Here I am library baju
+
+I seen your bag library horag
+06/01/23, 12:56 pm - 🍀 ADARSH: I will meet u in a few minutes
+06/01/23, 12:58 pm - SURAJ 🍁: ok
+06/01/23, 8:04 pm - SURAJ 🍁: 16 habits you should do EVERYDAY. (This changed my life) [FIXED]
+1 Exercise – Exercise is huge. I briefly touched on what happens to you in the short term but consider also the long term effects of regular exercise. As you maintain a regiment of exercise your body fat percentage drops, your flexibility and strength increase (less chance of injury) your lifespan extends, your immune system is bolstered, you maintain your youth longer, you carry over a sustained vigor to other parts of your life, your resting heart rate goes down, and you have a general feeling of well being. Pretty sweet. Clearly exercising is very important; given both its short and long term benefits.
+
+But do you have to do this every day? That seems strenuous. Try expanding your definition - You don’t give it your 100% every day. Some days may be 10 minutes of simple light stretching, just to keep the habit. Other days may be 2.5 hour monster gym sessions.
+
+I use this habit to help me accomplish two other things very important to me, mediation and getting in nature. Often times my physical exertion is a one hour walk through the park or along the water front. Practicing a walking meditation is a great way to center yourself and help carry the skill over to everyday life. Being in nature has a similar balancing effect on your well being.
+
+But you don’t need me to tell you to work out. The benefits are all clearly documented by scientists and people. There are networks and resources for support and endless sources of inspiration to motivate you.
+
+2 Meditation – This habit is fucking HUGE. You need to meditate. Think about what part of the human experience spirituality addresses – the ego and fear – two concepts that are SO tied up with hitting on girls. I think a lot of people get messed up here because the benefits are very intangible at first. The “S curve” of Mastery that I described above has a very looong period of ‘sucking shit’. If you’re not experienced then your image of what meditation should be like is wrong. Fighting your expectations will be a constant battle as you learn to meditate. Here are some resources to help you learn. Reddit Article – Very concise introduction to meditation Mindfulness in Plain English – Amazing book that covers the topic clearly and in depth.
+
+Meditation Retreat – 10 day intensive mediation retreat Holosync – Tapes that induce a meditative state (great training wheels) A fortuitous person may discover means of acquiring the audio. (make sure its .flac and not .mp3 format + listen with good headphones) Practice – Hurr durr. Start meditating everyday. The evidence is in by a landslide, both anecdotally and empirically. Meditation will change your life so start today, any reason your not is an excuse.
+
+Once you get the hang of it you will leave your meditation sessions feeling centered, calm, and relaxed. It has an ego-lessening effect and awareness increasing effect that spills over to your everyday life. If you keep up the practice you’ll notice that your focus and attention span increases dramatically, as does your sight and sound sensitivity (think of the most visceral things you do – sex, eating, sports etc.) Brain regions associated with attention, interoception and sensory processing will literally [url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1361002/ ]become thicker[/url].
+
+In the long term, meditation offers a ‘profound transformation of how you experience reality’ It will bring you joy, peace, and happiness. This is real and you need to be doing it.
+
+3 Reading - If you read the right books you will be moved, inspired, and motivated.
+
+Think about what you expose yourself to. There’s a million shitty blogs on the interent written by whoever. But then theres books out there that will change your life. Books that the most gifted human beings on earth have spent years writing. A lifetime of experience, insights, and lessons learned given to you in a nice handheld easily digestible form. :)
+
+I started this habit at a half hour a day. Recently I’ve started reading about an hour a day and am burning through books. With a constant flow of information in you increase your ability for information to flow out (applying knowledge to your life)
+
+Reading is an easy habit to put off and you need to make it a priority. If you’re not regularly reading then you may start to fall asleep as you pick up a book. Your mind is not conditioned properly and you need to force yourself through that period. Your reading speed and comprehension do pick up over time – just stick to it.
+
+4 Creative Recreation - People are going to approach this one very differently but if there is something you can sit down and do purely for your enjoyment than that’s awesome. Think of a flow state activity that you can put your full expression into. For me it’s playing an instrument. If you’ve ever seen someone play the guitar or piano at an extremely high level in a non performance setting then you’ll know what I’m talking about. The “S” curve of learning an instrument is very, very, very long. But you get out what you put in. Your amusements will leave you feeling rejuvenated and can often break up and lighten the day. As you invest in your hobbies you will get more and more out of them
+
+I generalized this habit as ‘creative recreation’ because I want to emphasize the fact that recreation is not a spectator sport. Vegetating on the couch watching commercials is not recreation.
+
+5 Nutrition - As you build a productive life your ability to stay focused and have energy becomes very important. What you eat has a huge effect on how you feel. If you eat right you can avoid energy crashes, fight off sickness, and generally just feel ‘good’.
+
+I know that I’m definitely not the best person to give nutrition advice but the resources are out there. It should be obvious that what you put in your body is very important. Do yourself a favor and learn how your body works. For me, I don’t eat sugar or processed food. I drink 1.5L of water a day and I make an extra effort to eat more plant based foods. I supplement my diet with fish oil etc. I think what’s most important though is that you proactively decide what you put in your body. Make the time to cook your meals, keep your fridge stocked, and don’t buy convenience food.
+
+6 Reasonable Spending - Like nutrition, this habit is more of a choice you make rather than an active investment of your time. Its pretty straight forward, every day I try to manage my money reasonably.
+
+Apply the concept of reactivity/proactively to your spending and you have an excellent framework for managing your money. Did you plan on making this purchase? If not then don’t do it. The nature of planning a purchase is that it is in line with your goals and budget. The nature of making an impulsive/reactive purchase is quite the opposite, ‘it is right here and will satisfy me right now’ (mostly consumer/convenience items )
+
+7 Brain Buster + Current Events - Part of my morning routine is to check out the economist, my local news site, or the new york times and read two or three articles. Given my background and where I want to go in life it is going to serve me well to be informed and have the ability to notice trends and understand the complexity of global issues.
+
+I also work very hard to develop my critical and lateral thinking. Every day I challenge myself to solve one extremely difficult problem. Actually I only figure them out about 30% of the time. On my computer I have a repository of IQ, Mensa, brain buster type books that would take a lifetime to work through. Some problems I solve in five minutes others take me thirty until I break down and look at the solution.
+
+If you run a business or are any kind of decision making authority (or eventually want to be in that position) then I can’t vouch enough for this habit. You need to be sharp and informed. Period.
+
+8 Social - Every day I make an effort to advance my social skills. Your ability to communicate effectively with human beings has so many implications in your personal and professional life. I’ve gone through experiments with this habit and I think the less your around people the more you need to make it a priority (my lifestyle right now has me around new people ALL the time, but there have been other times in my life when I actively had to make that happen)
+
+I’ve tried a few different things. For a while I really focused on listening to people with the intent to understand, pushing the urge to get my point across aside and giving other people the floor when they were expressing themselves. I’ve done different experiments with eye contact and physicality while communicating as well. Regardless, going out and approaching trumps all when it comes to developing your social skills.
+
+9 Personal Management - This is the easiest of all habits to implement. Just 10 minutes a day and your bachelor pad is looking clean and fresh. Not many long term benefits here except maybe you don’t lose your possessions as often and they have and increased lifespan. In the short term doing your laundry, not letting your dishes pile up, and making your bed can offer you a peace of mind and allow you to work unfestered on other projects.
+
+10 Project 1, 2 or more times a week - For me I set aside a two hour block twice a week to work on a personal project. This could be fleshing out a business feasibility plan, recreating my weightlifting routine, catching up on some reading, creating a budget, doing research, or writing a mega post for rsd :)
+
+At the beginning of each week I choose what two projects I plan to work on and within the week I find time to fit them in. Use this habit as a way of revitalizing old projects that are collecting dust or to begin something new that you’ve been thinking about but haven’t got around to.
+
+The effects this habit has on your short and long term productivity are huge.
+
+11 Podcast/TED Talk/University Lecture - If you’re a thinking human being with a desire for knowledge then you should be listening to podcasts, watching ted talks and viewing the thousands of lectures professors and researchers have on the internet.
+
+This is a habit I integrated for both its short term and long term benefits. In the short term I find it interesting to learn about new topics. A lot of times it’s on a subject I’m interested in at the time, other times its something completely new. Either way I’m exposing myself to the best and brightest minds of today and expanding my understanding of the world.
+
+If you engaged yourself with this material every day, what would the long term effects be? Besides a vast and varied wealth of knowledge you would begin to draw disciplines together. Your understanding and awareness would grow so large that the value and wisdom you could offer other people would be incredible.
+
+*For a practical tip, throw a queue of talks you’re interested in on your ipod and listen while exercising.
+
+12 Language - Every day I spend thirty minutes learning a new language. This is an ongoing task that I struggled to integrate. You realize almost no immediate benefit and that makes it exceptionally difficult to do every day. The “S” curve of mastery is very, very long (years).
+
+But alas, the benefits in the long term must be exceptionally rewarding. I can only speculate as I currently only speak one language, but from my time studying in Italy I can tell you I would have got a lot more out of the experience had I spoke the language. Coming from a business perspective being bi/multi-lingual would likely be a huge advantage.
+
+For me, I intend to spend a large part of my life travelling. If you expect to live another 50/60 years of life on this earth then imagine the lifetime of opportunities and experiences other languages may open you up to. Don’t cut yourself off.
+
+For some practical advice getting started I recommend the rosetta stone. It’s a visual program that is a great way for getting you started. Listen to talk radio (via internet) and get a language book with exercises to help you practice. Get a women your seeing to join in. It accelerates the process so much if you have someone to practice speaking with.
+
+We are the first generation with ready access to the internet. The resources to help you pick up a language are out there and they are free – use them.
+
+[continuted below]
+06/01/23, 8:44 pm - SURAJ 🍁: ready tomorrow after exam
+06/01/23, 8:44 pm - SURAJ 🍁: read🤠
+06/01/23, 9:05 pm - 🍀 ADARSH: That's why I didn't reply  😁
+
+I will sure 🙌🏻💯
+
+Have a wonderful sleep tonight 💤
+07/01/23, 6:24 am - 🍀 ADARSH: <Media omitted>
+07/01/23, 10:18 am - SURAJ 🍁: <Media omitted>
+07/01/23, 3:34 pm - SURAJ 🍁: Siemens hiring
+
+https://unstop.com/p/software-developer-siemens-583611?utm_source=RajeshKumar-LinkedIn&utm_medium=Affiliates&utm_campaign=Siemens07012023
+07/01/23, 3:35 pm - 🍀 ADARSH: <Media omitted>
+07/01/23, 3:39 pm - SURAJ 🍁: i also have this in my phone😁
+07/01/23, 3:40 pm - SURAJ 🍁: <Media omitted>
+07/01/23, 3:40 pm - 🍀 ADARSH: If I can call you idiot sometimes , then I am here right now lol 😁
+07/01/23, 3:41 pm - SURAJ 🍁: you will receive it in 2 mins
+07/01/23, 3:43 pm - 🍀 ADARSH: Ooooooooo bhaiiiii 😂 
+Thanks for keeping it 
+
+
+Im future we can see this and laugh forever
+07/01/23, 3:43 pm - 🍀 ADARSH: 🤍💯
+07/01/23, 3:43 pm - SURAJ 🍁: 😂😂😂😂😂
+07/01/23, 3:44 pm - 🍀 ADARSH: Finished exams , I will read the message you sent yesterday 
+
+Byee
+07/01/23, 4:46 pm - 🍀 ADARSH: Ingredients of  quality man 🤍
+08/01/23, 6:36 pm - SURAJ 🍁: Amazon is hiring Software Development Engineer, CTT - CIS!                                                                                                            Location:
+Hyderabad, Telangana, India                                                                    Requirements:
+Bachelor or Masters in Computer Science
+Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+Advocate for solutions to technical challenges, articulating schedule/ risk/ quality trade-offs                                      https://unstop.com/job/software-development-engineer-ctt-cis-amazon-583609?utm_source=Freshercareers-Telegram&utm_medium=Affiliates&utm_campaign=Amazon08012023
+08/01/23, 11:01 pm - SURAJ 🍁: man i wrote some extraordinary code today.. 
+
+https://leetcode.com/problems/max-points-on-a-line/solutions/3020830/java-epic-solution-handled-some-edge-cases/
+09/01/23, 6:31 am - 🍀 ADARSH: Awesome 💯
+09/01/23, 10:29 am - 🍀 ADARSH: Suri bhai wanted to ask and tell something , although its not big deal or its not the right thing or time 
+
+
+
+But how the hell do you think that I am even worth being something important to share your thoughts or someone you can have as a friend 
+
+Like don't you ever think that i am nothing , I never helped you in anything that matters really , neither I am good at something  nor I am wise , I am of no use to you anything
+
+I just feel that sometimes in future you are going to realize that I am of no value , I feel you are overvaluing me and I am afraid that I am nothing
+09/01/23, 10:33 am - 🍀 ADARSH: Sometimes I feel I am not worth your time , thoughts & importance 
+
+I am sending this not because that I am depressed or something like that but because of what i am realizing 
+
+
+Btw nothing wrong with my mood , I am totally happy 😆
+09/01/23, 1:57 pm - SURAJ 🍁: ok then you are in good mood then...
+let me tell you then..why you worth
+You know.. i have told you many times that.."i can see through people"..
+I have seen many people but they have something achivement tagged to their name ...but no clue of hard work..
+you are the only person i know, who works like hell and has achieved nothing (outer visible trash achievements)
+
+i know what you have achieved...
+you have purest thoughts when it comes to thinking of others (there is no sign of negetive thinking to others)
+
+you are disciplined and never complaining man when it comes to responsibility.
+
+the world most of the times fails to see where you have backed yourself to help others.(goodness can't be seen by bad eyes)
+
+the attachment of you with your parents in an inspiration for me (its more than getting placed in google and no connection of feelings with parents) for me.
+
+i have modeled you in many sectors, let me tell you
+the changes in me because of you:
+   i never thaught that i have ego before meeting you, i never knew what is politeness, i never knew that there are men working hard than me and have nothing got in return..
+there are specifically n things which i like about you..
+once you take some decision, you never come to me saying bro it cant be done by me, you always give your best
+
+i learnt how to read less and pass exams from you
+, how to not worry about dumb things,
+you where not between child me and now me
+,you never asked anybody in your downtimes which i like the most, you present what others want from you,
+
+what i believe..god will do...in future 
+you will become smart and most intelligent person, you will becomes stringer than ever, you will enjoy like nobody does, there will be no situation which can fear you, everybody will start to understand you and i m sensing that..that day is nearer,
+
+what i think is...once you taste the success..then there is nobody who can stop you...you need nobodies advice ..on your own you will rise like nobody..
+
+
+
+in that all.....
+what i am doing is just taking the characters which i can adopt from you... understanding them only takes 5-6 months..but i love them.
+btw you are the first person i didn't compete with and admired.
+09/01/23, 2:15 pm - 🍀 ADARSH: Lol ! Again I have no words 
+But i don't want to explain your understanding and friendship by fancy words & your contribution to my life
+
+You have grown such a fine man in the past months ! Can't measure it with anything 
+
+Love to give back someday what you have given to me 
+( although its impossible ) 
+
+Lol ! Screw it ,,, lets study 
+Don't text back for a while 
+😂
+
+Man.. I am awesomest  , just to have friends who are family  👪 I can die peacefully 💯
+10/01/23, 9:51 am - SURAJ 🍁: Infosys Off Campus Drive 2023 for Freshers | 2020/2021/2022 Batch | Across India | Last Date : 13th January 2023
+
+Job Role : Specialist Programmer
+Qualification : BE/BTech/ME/MTech/MCA/MSc
+Batch : 2020/2021/2022 Batch
+Salary : INR 9.5 LPA
+Job Location : Across India
+Venue Location : Virtual(Online)
+Last Date : 13th January 2023
+
+To Apply: 
+https://bit.ly/Infosys-Recruitment-Program
+If it is not useful to you...
+Share this in your circle, this create someone's career
+10/01/23, 9:52 am - 🍀 ADARSH: Its only uptill 22 batch broo
+10/01/23, 9:53 am - 🍀 ADARSH: Sure I will
+10/01/23, 9:53 am - SURAJ 🍁: oh shit
+10/01/23, 9:54 am - 🍀 ADARSH: What shit
+10/01/23, 9:54 am - SURAJ 🍁: its not for 23 batch
+10/01/23, 9:55 am - 🍀 ADARSH: Exactly what I said 😁
+10/01/23, 9:55 am - 🍀 ADARSH: ..
+10/01/23, 9:55 am - SURAJ 🍁: ya
+10/01/23, 1:39 pm - 🍀 ADARSH: https://youtu.be/6Y-V_8UJ_xU
+10/01/23, 2:04 pm - SURAJ 🍁: https://youtu.be/nCD2hj6zJEc
+10/01/23, 2:12 pm - SURAJ 🍁: https://youtu.be/DAYszemgPxc
+10/01/23, 2:50 pm - 🍀 ADARSH: The video's first comment satisfied me for a while 🪶
+10/01/23, 10:20 pm - SURAJ 🍁: music is so awesome, addicted to it
+10/01/23, 10:30 pm - SURAJ 🍁: ...
+PROMISE ME THAT, YOU WILL GIVE ME NECK TO NECK FIGHT IN EVERY FUCKING THINGS FROM NOW ONWARDS
+10/01/23, 11:01 pm - SURAJ 🍁: today my whole passport procedures completed, i will help u in your time
+11/01/23, 5:11 am - 🍀 ADARSH: Man... Thanks for that ! 💯
+11/01/23, 5:12 am - 🍀 ADARSH: That's the most wonderful way to grow 
+Yeah i will , but from 31st jan 😁
+11/01/23, 12:29 pm - SURAJ 🍁: https://youtu.be/XsROO8jt0CA
+11/01/23, 2:27 pm - 🍀 ADARSH: 🍷🗿
+14/01/23, 7:44 pm - SURAJ 🍁: i am seeing both of us in some big tech company, well settled and lost ourself in journey of our self interests, endeavouring and guiding the buds... and standing strong to whatever it is....🥀
+14/01/23, 8:22 pm - 🍀 ADARSH: Indeed man !! 
+
+If I don't disappoint your mood for a while 😁
+I am seeing my fucked up face in the examination hall after seeing this exam's question paper XD
+15/01/23, 9:42 am - SURAJ 🍁: <Media omitted>
+15/01/23, 9:42 am - SURAJ 🍁: https://vtu.ac.in/en/nptel-online-courses/
+15/01/23, 9:43 am - SURAJ 🍁: lets do this courses they are valuable
+15/01/23, 9:44 am - SURAJ 🍁: <Media omitted>
+16/01/23, 10:14 pm - SURAJ 🍁: https://youtu.be/giLlKR4qNzE
+16/01/23, 10:28 pm - SURAJ 🍁: https://youtu.be/po6kjouyxXg
+17/01/23, 9:50 am - 🍀 ADARSH: <Media omitted>
+17/01/23, 10:19 am - 🍀 ADARSH: Finished demon slayer 😁
+17/01/23, 10:30 am - SURAJ 🍁: 🔥🍁
+18/01/23, 7:38 am - SURAJ 🍁: <Media omitted>
+18/01/23, 9:17 am - 🍀 ADARSH: Extrawesome but simple 🔥
+18/01/23, 9:44 am - 🍀 ADARSH: <Media omitted>
+18/01/23, 9:54 am - SURAJ 🍁: 🌼🤍
+18/01/23, 8:31 pm - 🍀 ADARSH: Hey bro initially i was wanting to code only for the sake of job
+
+But now I am highly fucking wanting to code because of pure passion & interest 
+
+I am not doing as exams interfere , trust me i am gonna code nuts after exams 
+Regardless of fucking job ✊
+18/01/23, 9:25 pm - SURAJ 🍁: yes.. it will benifit you lot, because i.e what you are lacking off,
+if you develop interest...you will never see the time its taking and that is where the magic happens..time goes slow, your speed of learning goes high and differentiating base of knowledge will be formed..may you retain your interest in coding in future also 😇
+18/01/23, 9:40 pm - 🍀 ADARSH: Yeah ! Absolutely .....!! 
+after multiple times losing interest , interruptions & all that , now I can really understand my coding process & learning curve 
+
+I might be slow , i had some gaps , but the real fun lies in going straight ahead ! & that is what my nature is !! 
+
+Thank you for being with me throughout the process & most of all ,  thanks for keeping  the trust on me even though i really play dumb a lot or you can say majority of the times lol !! XD
+19/01/23, 7:47 am - 🍀 ADARSH: Bhai ad nptel innond sala idra bido , hoyt avnvn ello ada
+19/01/23, 8:26 am - SURAJ 🍁: https://vtu.ac.in/en/nptel-online-courses/
+19/01/23, 8:44 am - 🍀 ADARSH: Thanks
+20/01/23, 12:25 am - SURAJ 🍁: https://youtu.be/tXDzgaPoJQI
+21/01/23, 11:30 am - 🍀 ADARSH: 🌞
+21/01/23, 1:04 pm - SURAJ 🍁: <Media omitted>
+21/01/23, 2:32 pm - 🍀 ADARSH: Me telling you is like a student guiding his guide 
+
+Anyway if I have to try to explain , i definitely will
+21/01/23, 2:38 pm - 🍀 ADARSH: And about that phone call , I was not wanting to talk about that but here anyway 
+
+You are sometimes really a lifesaver for me , you can see my blindspot , initially while on the call my ego tried to block your words of truth 
+
+Then later when i see , those were simple truths that I failed to realize & just like that I was off the path long ago 
+..the truth bombs were needed & you supplied them at the right time 
+
+I was soo sunk in myself that I can't even see myself....you have my gratitude 
+
+
+& about meditation
+Day 1.I did it for a fewer minutes , no change 
+Day 2. I am getting to get familiar & understand why I am slowly get off the path later 
+
+& rest I will be exploring soon
+21/01/23, 2:39 pm - 🍀 ADARSH: ..
+21/01/23, 5:38 pm - SURAJ 🍁: before anything else.... 
+while meditating....
+ sit straight and there is one tying i have found dont know how to tell it in chat ,i will explain u on next meet.
+
+ chant for your god (for beginners i think its best to chant for not devine gods but admiring great bhakta*s i chant for "Basavanna" he is my idol and sign for devine purity and unlimited energy source for expectation-less hard work)
+
+while chanting calm your mind ,observe your actions and thoughts were they are going... focus on chant count try to not to think any thing else...(try to not to forget the count throughout the meditation) keep chanting as slow as possible
+
+it will calm you to another level ,you will smile like you never did till today..
+
+may god bring light in our life and also in life of all good hard workers 🙏🏻 may this goodness never vanish 🌸
+21/01/23, 6:23 pm - 🍀 ADARSH: Thank you 🌿
+25/01/23, 11:29 am - SURAJ 🍁: https://www.clearias.com/memory-techniques/
+25/01/23, 11:47 pm - SURAJ 🍁: <Media omitted>
+28/01/23, 10:42 am - SURAJ 🍁: <Media omitted>
+28/01/23, 7:59 pm - SURAJ 🍁: durga software channel videos,very much knowledgeable
+sir is awesome,see once when u r free
+28/01/23, 9:34 pm - SURAJ 🍁: to learn java its good
+29/01/23, 10:46 am - 🍀 ADARSH: sure , I will check it out
+30/01/23, 8:30 pm - SURAJ 🍁: Dear Students,
+This is to notify that our placement team is planning for few placement drives exclusively for unplaced students probably in the month of March.
+And for these drives probably in the last week of February we are planning to have placement training from Company Expertees.
+
+We request you to fill this 👇🏻 form so that we can get the exact count of students who wish to surely appear for these drive.
+
+ *PLACED STUDENTS ARE NOT ALLOWED* 
+
+https://forms.gle/3Mp9FdHLXEePCNDp7
+30/01/23, 8:30 pm - SURAJ 🍁: Do the needful till 1st February.
+30/01/23, 8:31 pm - SURAJ 🍁: nim sir kalsidar en nodri nim branch ga
+30/01/23, 9:28 pm - 🍀 ADARSH: Kalsilla avr
+30/01/23, 9:32 pm - 🍀 ADARSH: Thanks for this
+31/01/23, 6:41 pm - SURAJ 🍁: <Media omitted>
+31/01/23, 6:41 pm - SURAJ 🍁: <Media omitted>
+31/01/23, 6:41 pm - SURAJ 🍁: today is last date
+31/01/23, 7:19 pm - 🍀 ADARSH: Ok
+31/01/23, 7:20 pm - 🍀 ADARSH: Thank you
+
+I will apply as soon as I reach home
+31/01/23, 10:40 pm - SURAJ 🍁: Man bday completed in McDonald's
+01/02/23, 10:42 am - 🍀 ADARSH: How was it !?
+01/02/23, 10:54 am - SURAJ 🍁: rich wibe nothing else😅
+02/02/23, 6:22 am - 🍀 ADARSH: Hey bro can you tell me about passport
+02/02/23, 12:07 pm - SURAJ 🍁: yes,call me at the time of applying
+02/02/23, 3:26 pm - 🍀 ADARSH: sure !!!
+02/02/23, 7:57 pm - 🍀 ADARSH: https://youtu.be/qPDbNYcCXi8
+03/02/23, 7:30 am - SURAJ 🍁: <Media omitted>
+03/02/23, 7:35 am - SURAJ 🍁: <Media omitted>
+03/02/23, 8:57 am - 🍀 ADARSH: Facts !
+Can I assume these are from chanakya ! ?
+03/02/23, 9:09 am - SURAJ 🍁: yes chanakya the legend
+04/02/23, 11:54 am - 🍀 ADARSH: Hey brother .. I will call you evening
+04/02/23, 4:35 pm - 🍀 ADARSH: <Media omitted>
+07/02/23, 1:58 pm - SURAJ 🍁: <Media omitted>
+07/02/23, 2:11 pm - SURAJ 🍁: <Media omitted>
+07/02/23, 3:04 pm - SURAJ 🍁: <Media omitted>
+07/02/23, 3:22 pm - 🍀 ADARSH: According to chanakya 
+
+He compares a person who don't have a guru & self taught , to a woman who had baby without her husband
+
+Because that knowledge can be misleading & if anyone asks both the person & a woman , who caused this they can't answer
+
+(may be I am 100% wrong )
+07/02/23, 3:24 pm - 🍀 ADARSH: The low level people want money
+
+Middle level want money & a little reputation& respect (honour)
+
+Nobles (those who are respected in society ) only cares about their integrity & respect (honour)
+07/02/23, 3:25 pm - 🍀 ADARSH: One should either enjoy or hardwork ( do one thing )
+
+Which means one should not ruin enjoyment if they don't want to work further
+
+If one wants to work hard & move up , they must focus on that & should not care about enjoyment
+07/02/23, 3:25 pm - 🍀 ADARSH: ( I may be 100% absolutely wrong )
+07/02/23, 3:54 pm - SURAJ 🍁: ok thanks 👍🏻
+07/02/23, 11:15 pm - SURAJ 🍁: <Media omitted>
+08/02/23, 7:03 am - 🍀 ADARSH: 😁🙏🏼 jai
+08/02/23, 2:51 pm - 🍀 ADARSH: I don't know what endorse is actually 
+
+But you did & i thought its a good thing , & I did the same XD
+08/02/23, 3:05 pm - SURAJ 🍁: https://www.overleaf.com/project/63e36caf231234689069fcc2
+08/02/23, 3:19 pm - SURAJ 🍁: this is better
+
+https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz
+08/02/23, 4:14 pm - 🍀 ADARSH: Thank you 🙌🏻🤍
+08/02/23, 7:59 pm - SURAJ 🍁: NEW...AI APPS ARE AMAGING 🔥🔥🔥🔥🔥🔥🔥🔥🔥
+08/02/23, 8:23 pm - 🍀 ADARSH: Yesss
+08/02/23, 8:24 pm - 🍀 ADARSH: Uta madatidde adk call recieve madlilla , I have to go tomorrow for internship to clg 
+
+So I hope we can speak later
+09/02/23, 11:07 am - SURAJ 🍁: came to know that my brother is earning 15lack monthly,
+what I earn in 30 days...my brother earns in 1 day, inspired bu his success and aim and mindset 💪 hoping that we both also achive way more than these all
+09/02/23, 11:09 am - SURAJ 🍁: "Never settle Never bound"  lets embrace the journey with all we can give 🗽
+09/02/23, 1:26 pm - 🍀 ADARSH: Really amazed tp hear someone in your family circle do that 
+Lets enjoy and respect the process ...🙌🏻
+09/02/23, 10:24 pm - SURAJ 🍁: <Media omitted>
+09/02/23, 10:25 pm - SURAJ 🍁: was planning for MS in grmany/ Japan, but my father is advising me to take 4-5 years experience in tata
+09/02/23, 11:15 pm - SURAJ 🍁: <Media omitted>
+10/02/23, 5:57 am - 🍀 ADARSH: Yeah this I got it
+10/02/23, 5:57 am - 🍀 ADARSH: But this i didn't get very well
+10/02/23, 11:54 am - SURAJ 🍁: what tell..
+10/02/23, 11:55 am - SURAJ 🍁: important exams and opportunities after BE
+10/02/23, 11:57 am - 🍀 ADARSH: Ohh alright
+10/02/23, 12:00 pm - 🍀 ADARSH: According to my inosuke head , you solved the problem in just 135 ms which beats almost 99% of other submissions
+10/02/23, 12:03 pm - SURAJ 🍁: 🥳as I expected,You are wrong
+
+the amazing thing was,
+there are same percentage of people in every milisecond solutions,
+means 
+1.59% people have solved it in 325ms
+1.59% people have solved it in 311ms
+1.59% people have solved it in 408ms
+1.59% people have solved it in 130ms
+..
+..
+so on
+10/02/23, 12:04 pm - 🍀 ADARSH: Ahhhhh ....as always 🙌🏻
+10/02/23, 12:10 pm - SURAJ 🍁: not always..,some times
+10/02/23, 12:48 pm - 🍀 ADARSH: <Media omitted>
+10/02/23, 12:50 pm - SURAJ 🍁: 🔥💪🥳 i think you are in love with linked lists
+10/02/23, 12:50 pm - 🍀 ADARSH: Nah its just striver's sheet 
+& binary trees need recursion which I am still learning , that's why
+10/02/23, 12:51 pm - SURAJ 🍁: 🐧 i will also do more probs from today
+10/02/23, 4:43 pm - 🍀 ADARSH: <Media omitted>
+10/02/23, 4:54 pm - 🍀 ADARSH: <Media omitted>
+10/02/23, 4:59 pm - SURAJ 🍁: <Media omitted>
+10/02/23, 7:32 pm - SURAJ 🍁: cgpa 7.5 haaki la
+10/02/23, 7:49 pm - 🍀 ADARSH: Hu bhai select ago mata re
+11/02/23, 9:22 am - SURAJ 🍁: <Media omitted>
+11/02/23, 9:29 am - 🍀 ADARSH: Agreed !
+11/02/23, 9:29 am - SURAJ 🍁: how to use chatgpt
+11/02/23, 9:29 am - SURAJ 🍁: i am not able to signup
+11/02/23, 9:31 am - 🍀 ADARSH: I never used it 
+I am going to that mech internship today
+11/02/23, 9:32 am - SURAJ 🍁: and yesterday i did my project but failed to deploy it as its asking for credit card😅
+11/02/23, 9:32 am - SURAJ 🍁: 😅 okay
+11/02/23, 11:22 am - SURAJ 🍁: <Media omitted>
+12/02/23, 10:41 am - SURAJ 🍁: Just have a glance over bosscoder academy and masters union , what do you think about them?
+12/02/23, 12:11 pm - 🍀 ADARSH: Results are out , cleared but thses mfs reduced my marks too much bro , system sucks
+12/02/23, 12:24 pm - SURAJ 🍁: man congrats 😀😀 very happy for you
+12/02/23, 12:48 pm - 🍀 ADARSH: https://results.vtu.ac.in/JFEcbcs23/index.php
+12/02/23, 12:49 pm - SURAJ 🍁: <Media omitted>
+12/02/23, 12:50 pm - 🍀 ADARSH: <Media omitted>
+12/02/23, 5:23 pm - SURAJ 🍁: man i calculated sgpa in takeiteasy.com
+its showing 8.909
+
+Thanks man your technique helped me lot👍🏻🤠
+12/02/23, 6:18 pm - SURAJ 🍁: <Media omitted>
+12/02/23, 6:55 pm - 🍀 ADARSH: bro don't calculate percentage using that , that calculates wrong
+12/02/23, 6:55 pm - SURAJ 🍁: whooooo😂 i also thaught,how i can get that much
+12/02/23, 6:56 pm - 🍀 ADARSH: they are the definition of many people's dreams
+12/02/23, 6:56 pm - SURAJ 🍁: not getting sleep😅
+12/02/23, 6:57 pm - 🍀 ADARSH: wanted to tell you something that resume scanners and all are sometimes useless unless you are applying for pbc's                             because my resume scored 47 points , and that chandru's resume scored 4  …..  and you know who got the call and the offer
+12/02/23, 6:58 pm - 🍀 ADARSH: reality is quite different actually , not that I am frustrated or anything like that , but facts are facts lol
+12/02/23, 6:58 pm - SURAJ 🍁: 😅🙌🏻 have no clue how this happened
+12/02/23, 6:59 pm - SURAJ 🍁: then what is it actually?
+12/02/23, 6:59 pm - SURAJ 🍁: man i have found 1 glitch
+12/02/23, 7:00 pm - 🍀 ADARSH: for me its just the line from sri krishna , do your work without ever expecting the results , rest will follow or not
+14/02/23, 9:16 am - SURAJ 🍁: <Media omitted>
+14/02/23, 9:23 am - 🍀 ADARSH: I m really sorry to say that I cannot understand it either
+16/02/23, 12:08 pm - SURAJ 🍁: <Media omitted>
+16/02/23, 12:09 pm - SURAJ 🍁: <Media omitted>
+16/02/23, 12:09 pm - SURAJ 🍁: Rank 3 in my division 🥳
+16/02/23, 12:10 pm - 🍀 ADARSH: You are 🔥
+16/02/23, 12:10 pm - SURAJ 🍁: thank you 🙏🙂
+16/02/23, 12:11 pm - 🍀 ADARSH: How did you hosted it 😁
+16/02/23, 12:11 pm - SURAJ 🍁: i failed to host it
+16/02/23, 12:11 pm - SURAJ 🍁: i have just sent you the html file, add some css to it
+16/02/23, 12:11 pm - 🍀 ADARSH: I am outside in a temple
+16/02/23, 12:12 pm - 🍀 ADARSH: I will do it by evening
+16/02/23, 12:12 pm - SURAJ 🍁: take 10 days , add anytime
+16/02/23, 12:12 pm - 🍀 ADARSH: Sure I will

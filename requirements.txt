@@ -1,0 +1,12 @@
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+idna
+uritools
+platformdirs
+dnspython
+tox
